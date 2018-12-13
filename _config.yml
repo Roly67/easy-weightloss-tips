@@ -1,0 +1,59 @@
+sass:
+  sass_dir: ./_saas
+
+plugins:
+   - jekyll-sitemap
+   - jekyll-feed
+   - jekyll-seo-tag
+   - jekyll-paginate
+
+encoding: utf-8
+
+title: Easy Weight Loss Tips to Lose Weight Quickly and Effectively
+description: Easy weight loss tips are all you need to help you lose weight and look great quickly.. It's all about sensible weight loss tips that actually work!
+url: https://www.easy-weightloss-tips.com
+contact_email_main: hello@easy-weightloss-tips.com
+facebook:
+  app_id: 294885707289602
+  admins: 3828840316634
+
+include: 
+  - _pages
+  - blog
+
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+logo: /assets/images/logo1-12/jpg
+
+webmaster_verifications:
+  alexa: 9J8cP3hTckG7aXS-86xImgi64L4
+
+social:
+  name: Easy Weightloss Tips
+  links:
+    - https://www.facebook.com/ez.w8loss.tips/
+    
+collections:
+  authors:
+    output: true
+
+affiliate_links_clickbank_3_week_diet: https://marto649.3weekdiet.hop.clickbank.net/
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      excerpt_separator: <!--more-->
+  - scope:
+      path: ""
+    values:
+      layout: "default"    

@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Contact Us
+  link: /contact-us.html
+- name: About Us
+  link: /myjourney.html
+- name: Our Blog
+  link: /blog
