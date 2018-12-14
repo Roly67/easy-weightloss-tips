@@ -19,8 +19,13 @@ I can't even remember the last time I tried a diet that dictated EXACTLY what ha
 
 Check out this popular product on how to drop up to 20 pounds off your belly in only 3 weeks this 1 weird trick. It's called The [3 Week Diet]({{site.affiliate_links_clickbank_3_week_diet}}) and you can find out more about it by clicking the banner below.
 
-![Welcome to the Pilots diet](/assets/images/olive-oil-and-tomatoes.jpg){:style="height:269px;width:301px" class="ImageBlock ImageBlockCenter"}
-[!["The 3 Week Diet"](http://www.3weekdiet.com/images/300x250-women.jpg){:style="height:250px;width:300px;"}]({{site.affiliate_links_clickbank_3_week_diet}}){:target="_blank" style="margin:0 auto;height:250px;width:300px;display:block;"}
+<div class="ImageBlock ImageBlockLeft" markdown="1">
+![Welcome to the Pilots diet](/assets/images/olive-oil-and-tomatoes.jpg){:style="height:269px;width:301px"}
+</div>
+<div class="ImageBlock ImageBlockRight" markdown="1">
+[!["The 3 Week Diet"](http://www.3weekdiet.com/images/300x250-women.jpg){:style="height:250px;width:300px;"}]({{site.affiliate_links_clickbank_3_week_diet}}){:target="_blank" style="height:250px;width:300px;"}
+</div>
+<div class="clearfix"></div>
 
 ## The Pilots Diet Sample - Day 13:
 The Pilots Diet puts an emphasis on [lean protein]({{ site.baseurl }}{% post_url 2018-09-06-high-protein-foods %}), but severely limits both carbohydrates and refined sugar. The first few days were not fun, especially if you're a volume-eater, but I found that around Day 3, it no longer mattered. In fact, the truth of it was that I marveled at how much better I felt without that constant feeling of fullness. Mentally, I was more content because the food worry was taken out of the equation. I discovered that I could be totally satisfied with much less than I was used to eating daily.
