@@ -23,7 +23,7 @@ Check out this popular product on how to drop up to 20 pounds off your belly in 
 ![Welcome to the Pilots diet](/assets/images/olive-oil-and-tomatoes.jpg){:style="height:269px;width:301px"}
 </div>
 <div class="ImageBlock ImageBlockRight" markdown="1">
-[!["The 3 Week Diet"](http://www.3weekdiet.com/images/300x250-women.jpg){:style="height:250px;width:300px;"}]({{site.affiliate_links_clickbank_3_week_diet}}){:target="_blank" style="height:250px;width:300px;"}
+[!["The 3 Week Diet"](//www.3weekdiet.com/images/300x250-women.jpg){:style="height:250px;width:300px;"}]({{site.affiliate_links_clickbank_3_week_diet}}){:target="_blank" style="height:250px;width:300px;"}
 </div>
 <div class="clearfix"></div>
 
