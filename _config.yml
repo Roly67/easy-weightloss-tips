@@ -9,7 +9,7 @@ plugins:
 
 encoding: utf-8
 
-title: Easy Weight Loss Tips to Lose Weight Quickly and Effectively
+title: Easy Weight Loss Tips
 description: Easy weight loss tips are all you need to help you lose weight and look great quickly.. It's all about sensible weight loss tips that actually work!
 url: https://www.easy-weightloss-tips.com
 contact_email_main: hello@easy-weightloss-tips.com
@@ -39,7 +39,7 @@ collections:
   authors:
     output: true
 
-affiliate_links_clickbank_3_week_diet: https://marto649.3weekdiet.hop.clickbank.net/
+affiliate_links_clickbank_3_week_diet: https://c448ed0bv0bq5m8v6dqgg4gs3m.hop.clickbank.net/
 
 defaults:
   - scope:
