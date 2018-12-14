@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.easy-weightloss-tips.com/sitemap.xml
