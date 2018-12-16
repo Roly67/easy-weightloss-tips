@@ -22,9 +22,6 @@ Detoxification is another benefit that apple cider vinegar brings. It has been s
 <div class="ImageBlock ImageBlockLeft" markdown="1">
 ![Welcome to Apple Cider Vinegar Weight Loss](/assets/images/applecidervinegar2.jpg){:style="width:307px;height:273px;"}
 </div>
-<div class="ImageBlock ImageBlockRight" markdown="1">
-{% include ad-general-responsive.html %}
-</div>
 
 <div class="clearfix"></div>
 Wait! There’s more! Recent studies about apple cider vinegar revealed that it could also aid people who had been struggling to lose weight. It was proposed that apple cider vinegar has properties that suppress appetite. Furthermore, enzymes and organic acids that are present in apple cider vinegar are thought to speed up body’s metabolism. In simple terms, it hastens the body’s ability to burn fat that could result to weight loss if coupled with a non-sedentary lifestyle. It has long been established that apple cider vinegar, limits the rise of blood sugar or glucose.This means that insulin levels are low which in turn promotes weight loss. There are no guarantees but a lot has already been proven when it comes to the weight reducing property of apple cider vinegar.
