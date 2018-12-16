@@ -12,4 +12,4 @@ We also offer several interactive pages where visitors can share their weight lo
 
 Thanks for sharing. I look forward to hearing from you.
 
-<i class="fa fa-envelope"></i> [{{site.contact_email_main}}](mailto:{{site.contact_email_main}})
+<i class="fa fa-envelope"></i> [hello@easy-weightloss-tips.com](mailto:{{site.contact_email_main}})
