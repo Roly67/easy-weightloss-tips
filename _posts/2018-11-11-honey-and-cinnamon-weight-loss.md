@@ -4,7 +4,9 @@ description: A honey and cinnamon weight loss remedy taken twice a day can lower
 keywords: Honey and Cinnamon Weight Loss
 permalink: /Honey-and-cinnamon-weight-loss.html
 image: /assets/images/Honey.jpg
-index-snippet: A honey and cinnamon weight loss remedy taken twice a day can lower blood sugar to combat fat formation and lose weight naturally.
+header:
+   teaser: /assets/images/Honey.jpg
+excerpt: A honey and cinnamon weight loss remedy taken twice a day can lower blood sugar to combat fat formation and lose weight naturally.
 
 images:
   - url: /assets/images/Honey.jpg
@@ -12,9 +14,10 @@ images:
     title: Apple Cider Vinegar and Raw Honey For Natural Weight Loss
     height: 226 
     width: 150
+
+categories: [Healthy Eating]
 ---
 
-## Honey and cinnamon weight loss
 A [honey]({{ site.baseurl }}{% post_url 2018-11-13-raw-honey %}) and cinnamon weight loss remedy taken twice a day can lower blood sugar to combat fat formation and lose weight naturally.
 
 A natural remedy out to combat weight gain, the [raw honey]({{ site.baseurl }}{% post_url 2018-11-13-raw-honey %}) and cinnamon weight loss drink, combines the sweet and spicy tastes of honey and cinnamon.  Packed with helpful nutrients, the honey and cinnamon weight loss remedy combines two potent natural health foods into one drink that can help moderate your body’s insulin output and prevent fat formation.

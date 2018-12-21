@@ -3,8 +3,10 @@ title: Acupuncture and Weight Loss - A Winning Combination
 description: The relationship between acupuncture and weight loss is interesting!  Many say you can lose weight with acupuncture easily and maintain good health.
 keywords: acupuncture and weight loss,acupuncture diet,lose weight with acupuncture
 image: /assets/images/js_acupuncture-and-weight-loss1.jpg
+header:
+   teaser: /assets/images/js_acupuncture-and-weight-loss1.jpg
 permalink: /acupuncture-and-weight-loss.html
-index-snippet: Acupuncture and weight loss, as a partnership, is one of the more controversial issues in the “diet world."
+excerpt: Acupuncture and weight loss, as a partnership, is one of the more controversial issues in the “diet world."
 
 images:
   - url: /assets/images/js_acupuncture-and-weight-loss1.jpg
@@ -13,8 +15,6 @@ images:
     height: 200
     width: 133
 ---
-
-## Acupuncture and Weight Loss: Think Outside the Box
 
 <div class="ImageBlock ImageBlockCenter" markdown="1">
 ![Welcome to acupuncture and weight loss](/assets/images/js_acupuncture-and-weight-loss1.jpg){:style="width:133px;height:200px;"}

@@ -3,8 +3,10 @@ title: Jump-Start Metabolism With Nutritious Foods and Snacks
 description: You can jump-start metabolism by regularly choosing to eat healthy snacks and highly nutritious foods, which are easier for your body to process.
 keywords: jump-start metabolism,nutritious foods,healthy snacks
 image: /assets/images/healthy-weight-loss.jpg
+header:
+   teaser: /assets/images/healthy-weight-loss.jpg
 permalink: /jump-start-metabolism.html
-index-snippet: If you want to jump-start metabolism to assist with weight loss, then you need to follow some very simple guidelines. 
+excerpt: If you want to jump-start metabolism to assist with weight loss, then you need to follow some very simple guidelines. 
 
 images:
   - url: /assets/images/healthy-weight-loss.jpg
@@ -12,9 +14,9 @@ images:
     title: Welcome to jump-start metabolism!
     height: 107
     width: 150
----
 
-## Eat Nutritious Foods to Jump-Start Metabolism
+categories: [Weight Loss Diets]
+---
 
 ![Welcome to jump-start metabolism!](/assets/images/healthy-weight-loss.jpg){:style="width:410px;height:293px;float:right;margin:0 0 8px 8px;"}
 If you want to jump-start metabolism to assist with weight loss, then you need to follow some very simple guidelines. Getting your body “revved up” is easier than you might think, but the key is to be consistent over time! You can increase metabolism naturally, without unhealthy supplements. It’s really just a matter of desire, determination, and patience. People talk about high metabolism foods, but any healthy, nutrient-rich food is going to boost your metabolism and get you that much closer to your weight loss goals!

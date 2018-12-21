@@ -4,7 +4,9 @@ description: These easy meal ideas for Mediterranean diet avoid processed foods 
 keywords: meal ideas for Mediterranean diet,recipes,processed foods
 permalink: /meal-ideas-for-mediterranean-diet.html
 image: /assets/images/weight-loss-eating-plan-2.jpg
-index-snippet: These meal ideas for Mediterranean diet will help you get started on the most popular diet around today!
+header:
+   teaser: /assets/images/weight-loss-eating-plan-2.jpg
+excerpt: These meal ideas for Mediterranean diet will help you get started on the most popular diet around today!
 
 images:
   - url: /assets/images/weight-loss-eating-plan-2.jpg
@@ -14,7 +16,6 @@ images:
     width: 116
 ---
 
-## Recipes and Healthy Meal Ideas for Mediterranean Diet
 These meal ideas for Mediterranean diet will help you get started on the most popular diet around today!
 
 This diet, which is really more of a "lifestyle" than a weight loss system, combines different cuisines from areas such as __southern Italy, Spain, Morocco, Tunisia, Greece, and southern France__.

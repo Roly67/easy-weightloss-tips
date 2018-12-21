@@ -1,10 +1,12 @@
 ---
-title: Paleo Diet Foods | The super healthy alternative to processed food!
+title: Paleo Diet Foods - The super healthy alternative to processed food!
 description: Enjoy paleo diet foods and reap the benefits by swapping processed foods for a nutritious high-protein diet!
 keywords: paleo diet foods
 image: /assets/images/paleo-diet-foods.jpg
+header:
+   teaser: /assets/images/paleo-diet-foods.jpg
 permalink: /paleo-diet-foods.html
-index-snippet: Enjoy paleo diet foods and reap the benefits by swapping processed foods for a nutritious high-protein diet!
+excerpt: Enjoy paleo diet foods and reap the benefits by swapping processed foods for a nutritious high-protein diet!
 
 images:
   - url: /assets/images/paleo-diet-foods.jpg
@@ -12,9 +14,10 @@ images:
     title: Enjoy paleo diet foods
     height: 97 
     width: 150
+
+categories: [Weight Loss Diets]
 ---
 
-## Enjoy the Popular Caveman Diet!
 Paleo diet foods consists mainly of proteins, fruits, and vegetables (a modern version of what our Stone Age ancestors could hunt and gather). The idea behind this very popular diet is that our bodies are biologically programmed to respond favorably to this type of meal plan.
 
 ![Enjoy paleo diet foods](/assets/images/paleo-diet-foods.jpg){:style="width:335px;height:218px;float:right;margin:0 0 10 10;"}

@@ -3,8 +3,10 @@ title: Motivation for Dieting Helps You Get Inspired For Success
 description: Motivation is essential for long-term dieting.  Get inspired for the journey ahead. Discover easy tips that can assist you in your weight loss plan.
 keywords: motivation,get inspired,dieting
 image: /assets/images/motivation1.jpg.jpg
+header:
+   teaser: /assets/images/motivation1.jpg.jpg
 permalink: /motivation.html
-index-snippet: We all know that dieting is a head game. When your mind is made up, nothing else matters. If your head is in the right place, the most wonderful temptations won’t get you off track.
+excerpt: We all know that dieting is a head game. When your mind is made up, nothing else matters. If your head is in the right place, the most wonderful temptations won’t get you off track.
 
 images:
   - url: /assets/images/motivation1.jpg.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Get Inspired: Motivation for Dieting
 __Where do we find the motivation to lose weight?__
 
 We all know that dieting is a head game. When your mind is made up, nothing else matters. If your head is in the right place, the most wonderful temptations won’t get you off track.  

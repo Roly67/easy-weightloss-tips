@@ -3,8 +3,10 @@ title: Mediterranean Diet Books Use Recipes for Healthy Weight Loss
 description: Popular Mediterranean diet books explain the most nutritious diet on the planet and encourage healthy weight loss through the use of delicious recipes.
 keywords: mediterranean diet books,recipes,healthy weight
 image: /assets/images/Mediterranean-diet-books3.jpg
+header:
+   teaser: /assets/images/Mediterranean-diet-books3.jpg
 permalink: /mediterranean-diet-books.html
-index-snippet: Enjoy these Mediterranean diet books to help you explore a way of eating that leaves you satisfied in every way!
+excerpt: Enjoy these Mediterranean diet books to help you explore a way of eating that leaves you satisfied in every way!
 
 images:
   - url: /assets/images/Mediterranean-diet-books3.jpg
@@ -12,6 +14,8 @@ images:
     title: Welcome to Mediterranean diet books
     height: 62
     width: 100
+
+categories: [Weight Loss Diets]
 ---
 
 ## Recipes for Healthy Weight Loss: Mediterranean Diet Books

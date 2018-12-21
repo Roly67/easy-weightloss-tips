@@ -3,8 +3,10 @@ title: Exercise Indoors Without Special Equipment Burns Calories
 description: It's easy to exercise indoors without special equipment and burn calories when you walk inside, jump rope, do target exercises and strength training.
 keywords: exercise indoors without special equipment,walking inside,strength training
 image: /assets/images/exercise-music-1.jpg
+header:
+   teaser: /assets/images/exercise-music-1.jpg
 permalink: /exercise-indoors-without-special-equipment.html
-index-snippet: There are many reasons why we might want to exercise indoors without special equipment.  
+excerpt: There are many reasons why we might want to exercise indoors without special equipment.  
 
 
 images:
@@ -13,9 +15,10 @@ images:
     title: Welcome to Exercise Indoors Without Special Equipment
     height: 177
     width: 150
+
+categories: [Exercise]
 ---
 
-## It's Effective to Exercise Indoors Without Special Equipment!
 ![Welcome to Exercise Indoors Without Special Equipment](/assets/images/exercise-music-1.jpg){:style="width:133px;height:200px;float:right;margin:0 0 8px 8px;"}
 There are many reasons why we might want to exercise indoors without special equipment.  
 

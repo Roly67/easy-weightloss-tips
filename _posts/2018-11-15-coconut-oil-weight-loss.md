@@ -4,7 +4,9 @@ description: Aside from weight loss, coconut oil can increase your energy levels
 keywords: coconut oil weight loss
 permalink: /coconut-oil-weight-loss.html
 image: /assets/images/coconutdreamstime012060.jpg
-index-snippet: Aside from weight loss, coconut oil can increase your energy levels; sate your cravings for carbohydrates and sweets, and help you feel fuller after a meal.
+header:
+   teaser: /assets/images/coconutdreamstime012060.jpg
+excerpt: Aside from weight loss, coconut oil can increase your energy levels; sate your cravings for carbohydrates and sweets, and help you feel fuller after a meal.
 
 images:
   - url: /assets/images/coconutdreamstime012060.jpg
@@ -12,9 +14,10 @@ images:
     title: How to use coconut oil for weight loss
     height: 100 
     width: 150
+
+categories: [Healthy Eating]
 ---
 
-## How to Use Coconut Oil for Weight Loss
 Coconut oil boosts your metabolism and stabilizes your blood sugar by adding important nutrients to your diet – the chief of which are healthy fats.
 
 Despite conventional “wisdom”, a healthy diet doesn’t mean one that has cut out all fat.  A healthy and balanced diet includes what’s known as “healthy” fats.  These healthy fats are harnessed in the coconut oil.

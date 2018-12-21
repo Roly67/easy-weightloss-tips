@@ -3,8 +3,10 @@ title: Yoga and Weight Loss - The Perfect Dieting Partnership!
 description: Yoga and weight loss are a natural partnership, combining to enhance flexibility and strength while being especially effective for weight loss!
 keywords: yoga and weight loss
 image: /assets/images/yoga-and-weight-loss.jpg
+header:
+   teaser: /assets/images/yoga-and-weight-loss.jpg
 permalink: /yoga-and-weight-loss.html
-index-snippet: Yoga and weight loss go together so naturally that yoga is rapidly becoming one of the premier fitness activities of the twenty-first century!
+excerpt: Yoga and weight loss go together so naturally that yoga is rapidly becoming one of the premier fitness activities of the twenty-first century!
 
 
 images:
@@ -13,6 +15,8 @@ images:
     title: Yoga and weight loss go hand in hand
     height: 167
     width: 150
+
+categories: [Exercise]
 ---
 
 Yoga and weight loss go together so naturally that yoga is rapidly becoming one of the premier fitness activities of the twenty-first century! There are all levels of yoga classes, from the beginning to the most rigorous power yoga. Losing weight with yoga is about more than just burning calories, it's about improving strength, flexibility and general well-being!

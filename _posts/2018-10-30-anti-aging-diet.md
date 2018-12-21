@@ -3,8 +3,10 @@ title: The Anti-Aging Diet, Use Natural Foods To Fight Aging!
 description: Discover how the anti-aging diet can help you stay young, healthy and lose fat. These age-defying foods are not just for seniors, the diet works for everyone!
 keywords: anti-aging diet
 image: /assets/images/anti-aging-diet.jpg
+header:
+   teaser: /assets/images/anti-aging-diet.jpg
 permalink: /anti-aging-diet.html
-index-snippet: The anti-aging diet is a pretty well known approach of using natural food stuffs as a catapult to looking and feeling young, dropping fat and controlling the effects of aging!
+excerpt: The anti-aging diet is a pretty well known approach of using natural food stuffs as a catapult to looking and feeling young, dropping fat and controlling the effects of aging!
 
 images:
   - url: /assets/images/anti-aging-diet.jpg
@@ -12,9 +14,9 @@ images:
     title: The anti-aging diet is a great way to stay healthy
     height: 154
     width: 150
----
 
-## A way to harness the power of age-defying foods!
+categories: [Weight Loss Diets]
+---
 
 ![The anti-aging diet is a great way to stay healthy](/assets/images/anti-aging-diet.jpg){:style="width:293px;height:293px;float:right;margin:0 0 8px 8px;"}
 

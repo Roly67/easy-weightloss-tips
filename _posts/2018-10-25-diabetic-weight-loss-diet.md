@@ -3,8 +3,10 @@ title: Diabetic Weight Loss Diets can help fight Diabetes and Obesity
 description: A diabetic weight loss diet can help combat the destructive link between diabetes and obesity. Discover easy tips to regulate blood sugar and help in the fight against diabetes.
 keywords: diabetic weight loss diet
 image: /assets/images/diabetic-weight-loss.jpg
+header:
+   teaser: /assets/images/diabetic-weight-loss.jpg
 permalink: /diabetic-weight-loss-diet.html
-index-snippet: Looking for a diabetic weight loss diet? Great, because it’s very difficult to find another medical condition as closely linked to weight-issues as diabetes. 
+excerpt: Looking for a diabetic weight loss diet? Great, because it’s very difficult to find another medical condition as closely linked to weight-issues as diabetes. 
 
 images:
   - url: /assets/images/diabetic-weight-loss.jpg
@@ -12,9 +14,9 @@ images:
     title: A diabetic weight loss diet can help you combat diabetes
     height: 100
     width: 150
----
 
-## Use Your Diet To Fight Diabetes & Obesity!
+categories: [Weight Loss Diets]
+---
 
 Looking for a diabetic weight loss diet? Great, because it’s very difficult to find another medical condition as closely linked to weight-issues as diabetes. In the western world, 9 out of 10 people diagnosed with type two diabetes are overweight and 80% of these cases can be prevented by a change in diet and exercise! Chances are, if you’re reading this, you're diabetic, pre-diabetic, or you have a loved one who is. So let's talk about how a diet can positively impact on diabetes.
 

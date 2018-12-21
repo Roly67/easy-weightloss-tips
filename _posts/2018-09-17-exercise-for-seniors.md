@@ -3,8 +3,10 @@ title: Exercise for Seniors - Healthy Changes and Quality of LIfe
 description: Consistent exercise for seniors improves the quality of life because it triggers healthy changes in attitude and mental well-being.
 keywords: exercise for seniors,healthy changes,quality of life
 image: /assets/images/Fotolia_38254300_XS.jpg
+header:
+   teaser: /assets/images/Fotolia_38254300_XS.jpg
 permalink: /exercise-for-seniors.html
-index-snippet: Exercise for seniors is essential for quality of life! The anti-aging diet has become hugely popular, but as always, it boils down to a few basic steps.
+excerpt: Exercise for seniors is essential for quality of life! The anti-aging diet has become hugely popular, but as always, it boils down to a few basic steps.
 
 
 images:
@@ -13,9 +15,10 @@ images:
     title: Welcome to Exercise for Seniors
     height: 180
     width: 150
+
+categories: [Exercise]
 ---
 
-## Enhance the quality of later life with exercise!
 Exercise for seniors is essential for quality of life! I'm sure we can all agree on that point! Most baby boomers and aging seniors can relate to this now famous quote, which is usually attributed to baseball great, Mickey Mantle..."If I knew I was going to live this long, I would have taken better care of myself." If you're like me, you always think there will be plenty of time to make those healthy changes that you've always wanted to make!
 
 I have observed so many people many of who are family members, age poorly. In almost every case, it was due in large part to leading sedentary lives. Being active as we age is the single most important gift that we can give ourselves! With so much that we can't control, let's tackle the one thing we CAN control! The anti-aging diet has become hugely popular, but as always, it boils down to a few basic steps - [eat healthy]({{ site.baseurl }}{% post_url 2018-10-18-eat-healthy %}), regulate calorie consumption and avoiding processed foods to get the best results as quick as possible.

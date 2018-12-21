@@ -3,8 +3,10 @@ title: To Eat Healthy Learn the Food Groups and Serving Size
 description: Discover quick and easy tips to eat healthy while learning the recommended serving size of foods and covering all the major food groups.
 keywords: eat healthy,food groups,serving size
 image: /assets/images/Harvard_food_pyramid.png
+header:
+   teaser: /assets/images/Harvard_food_pyramid.png
 permalink: /eat-healthy.html
-index-snippet: Do you know what it means to "eat healthy?" Surveys show that most people consider themselves to be good eaters. If that is accurate, then why do we have such a serious epidemic of obesity? 
+excerpt: Do you know what it means to "eat healthy?" Surveys show that most people consider themselves to be good eaters. If that is accurate, then why do we have such a serious epidemic of obesity? 
 
 images:
   - url: /assets/images/Harvard_food_pyramid.png
@@ -12,6 +14,8 @@ images:
     title: Welcome to Eat Healthy!
     height: 142
     width: 150
+
+categories: [Weight Loss Tips]
 ---
 
 ## Include Major Food Groups

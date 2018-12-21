@@ -3,8 +3,10 @@ title: Basal Metabolic Rate Can Be Determined with BMR Caculator
 description: Determine your basal metabolic rate, or resting metabolic rate, and discover how many calories you burn while resting. Our BMR Calculator makes it easy!
 keywords: basal metabolic rate,BMR calculator,resting metabolic rate
 image: /assets/images/motivation1.jpg.jpg
+header:
+   teaser: /assets/images/motivation1.jpg.jpg
 permalink: /basal-metabolic-rate.html
-index-snippet: Your basal metabolic rate is an indicator of how many calories your body burns at rest, and accounts for 60-75% of your overall metabolism! 
+excerpt: Your basal metabolic rate is an indicator of how many calories your body burns at rest, and accounts for 60-75% of your overall metabolism! 
 
 images:
   - url: /assets/images/motivation1.jpg.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Our BMR Calculator Determines Basal Metabolic Rate
 Your basal metabolic rate is an indicator of how many calories your body burns at rest, and accounts for 60-75% of your overall metabolism! 
 
 Your official BMR is measured under very rigid conditions in an atmosphere completely void of any stimulation.  

@@ -1,8 +1,113 @@
-- name: Home
-  link: /
-- name: Contact Us
-  link: /contact-us.html
-- name: About Us
-  link: /myjourney.html
-- name: Our Blog
-  link: /blog
+main:
+- title: Contact Us
+  url: /contact-us.html
+- title: About Us
+  url: /myjourney.html
+- title: Our Blog
+  url: /blog
+
+sidebar1:
+  - title: "Healthy Eating"
+    children:
+      - title: "Apple Cider Vinegar Benefits"
+        url: /apple-cider-vinegar-weight-loss.html
+      - title: "Raw Honey"
+        url: /raw-honey.html
+      - title: "Apple Cider Vinegar and Raw Honey"
+        url: /Apple-cider-vinegar-and-Raw-honey.html
+      - title: "Honey And Lemon For Weight Loss"
+        url: /Honey-and-Lemon-for-weight-loss.htm
+      - title: "Honey and Cinnamon Weight Loss"
+        url: /Honey-and-cinnamon-weight-loss.html
+      - title: "Coconut Oil Weight Loss"
+        url: /coconut-oil-weight-loss.html
+
+  - title: "Weight Loss Diets"
+    children:
+      - title: "The Pilots Diet"
+        url: /the-pilots-diet.html
+      - title: "The Cookie Diet"
+        url: /cookie-diet.html
+      - title: "The Anti-Aging Diet"
+        url: /anti-aging-diet.html
+      - title: "The 54321 Diet"
+        url: /5-4-3-2-1diet.html
+      - title: "The Paleo Diet"
+        url: /paleo-diet-foods.html
+      - title: "The Cleansing Detox Diet"
+        url: /cleansing-detox-diets.html
+      - title: "The Mediterranean Diet"
+        url: /mediterranean-diet-books.html
+      - title: "Lose Weight In A Week"
+        url: /lose-weight-in-a-week.html
+      - title: "Summer Weight Loss"
+        url: /summer-weight-loss.html
+      - title: "Diabetic Weight Loss"
+        url: /diabetic-weight-loss-diet.html
+      - title: "Pregnancy Weight Loss"
+        url: /pregnancy-weight-loss.html
+      - title: "Heart Healthy Diet"
+        url: /heart-healthy-diet.html
+      - title: "Healthy Diet Plans"
+        url: /healthy-diet-plan.html
+      - title: "Holiday Diet Tips"
+        url: /holiday-diet-tips.html
+      - title: "Jump Start Metabolism"
+        url: /jump-start-metabolism.html
+      - title: "More FREE Diets"
+        url: /free-weight-loss-diet-plans.html
+
+  - title: "Weight Loss Tips"
+    children:
+      - title: "Quick Weight Loss"
+        url: /quick-weight-loss-tips.html
+      - title: "Eat Healthy"
+        url: /eat-healthy.html
+      - title: "Easy Weight Loss Tips"
+        url: /tips.html
+      - title: "Weight Loss for Teens"
+        url: /quick-weight-loss-for-teens.html
+      - title: "Childhood Obesity"
+        url: /childhood-obesity.html
+      - title: "Vegetarian Weight Loss"
+        url: /vegetarian-weight-loss.html
+      - title: "Weight Loss Questions"
+        url: /weight-loss-questions.html
+
+  - title: "Free Diet Recipes"
+    children: 
+      - title: "Weight Loss Shakes"
+        url: /weight-loss-shake-recipes.html
+      - title: "Healthy Desserts"
+        url: /deserts.html
+      - title: "Healthy Recipes"
+        url: /healthyrecipes.html
+      - title: "Low Calorie Sidedishes"
+        url: /sidedishes.html
+      - title: "Low Calorie Entrees"
+        url: /entrees.html
+      - title: "Free Mediterranean Recipes"
+        url: /free-mediterranean-diet-recipes.html
+      - title: "Dining Out Tips!"
+        url: /dining-out-tips.html
+
+  - title: "Exercise"
+    children:
+      - title: "Yoga And Weight Loss"
+        url: /yoga-and-weight-loss.html
+      - title: "Walking For Weight Loss"
+        url: /walking-for-weight-loss.html
+      - title: "Burn Belly Fat!"
+        url: /belly-fat.html
+      - title: "Eliminate Man Boobs"
+        url: /man-boobs.html
+      - title: "Exercise For Seniors"
+        url: /exercise-for-seniors.html
+      - title: "Exercise Indoors"
+        url: /exercise-indoors-without-special-equipment.html
+      - title: "Exercise Plans"
+        url: /exercise-plans-for-weight-loss.html
+      - title: "Exercise Bike For Weight Loss"
+        url: /exercise-bike-for-weight-loss.html
+      - title: "Target Exercises"
+        url: /target-exercises.html        

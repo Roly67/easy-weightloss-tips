@@ -3,8 +3,10 @@ title: Walking for Weight Loss is a Great Cardio Workout
 description: Walking for weight loss provides an effective fat-burning, cardio workout that requires no special place or equipment.  This exercise can work for all ages.
 keywords: walking for weight loss,cardio workout,fat-burning
 image: /assets/images/walk-to-lose-weight1.jpg
+header:
+   teaser: /assets/images/walk-to-lose-weight1.jpg
 permalink: /walking-for-weight-loss.html
-index-snippet: Walking for weight loss is one of the easiest and least stressful exercises! It’s a great way for a sedentary person to get moving, and it can also be a very effective, fat-burning, cardio workout!
+excerpt: Walking for weight loss is one of the easiest and least stressful exercises! It’s a great way for a sedentary person to get moving, and it can also be a very effective, fat-burning, cardio workout!
 
 
 images:
@@ -13,6 +15,8 @@ images:
     title: Welcome to Walking for Weight Loss
     height: 225
     width: 150
+
+categories: [Exercise]
 ---
 
 Walking for weight loss is one of the easiest and least stressful exercises! It’s a great way for a sedentary person to get moving, and it can also be a very effective, fat-burning, cardio workout! As with any new exercise program, you will want to check with your doctor if you have existing medical conditions that might make exercise dangerous to your health.  

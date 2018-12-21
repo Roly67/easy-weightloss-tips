@@ -3,8 +3,10 @@ title: Healthy Recipes For Low-Calorie Meals and Vegetarian Dishes
 description: Healthy desserts and low-calorie sweets can help make your weight loss journey easier! Try our delicious, easy recipes and be amazed!
 keywords: healthy recipes
 image: /assets/images/vegetarian-weightloss.jpg
+header:
+   teaser: /assets/images/vegetarian-weightloss.jpg
 permalink: /healthyrecipes.html
-index-snippet: Don't you just love delicious, healthy recipes? Fortunately, I have many good friends who are excellent cooks and who have agreed to share some of their favorite, low-calorie, recipes.
+excerpt: Don't you just love delicious, healthy recipes? Fortunately, I have many good friends who are excellent cooks and who have agreed to share some of their favorite, low-calorie, recipes.
 
 
 images:
@@ -13,9 +15,10 @@ images:
     title: Welcome to Healthy Recipes Low-Calorie & Vegetarian Meals
     height: 100
     width: 150
+
+categories: [Free Diet Recipes]    
 ---
 
-## Healthy Recipes Low-Calorie & Vegetarian Meals
 Don't you just love delicious, healthy recipes? I wish I could tell you that I’m a fabulous cook who specializes in recipes that include healthy, low-calorie meals. The truth of the matter is that I rarely cook. I have some skills in the kitchen, but just never picked up the habit of cooking on a regular basis. You'll notice my personal recipes because they tend to be descriptive as opposed too conventional. I rarely use exact amounts and frequently change up the ingredients.
 
 Fortunately, I have many good friends who are excellent cooks and who have agreed to share some of their favorite, low-calorie, recipes. I will only include recipes that meet this criteria; however, please keep in mind the most important factor in determining your weight loss success is [portion size]({{ site.baseurl }}{% post_url 2018-09-01-portion-control %}).  

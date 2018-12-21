@@ -3,8 +3,8 @@ title: Contact Us
 description: Contact us at Easy Weight Loss Tips to share your comments, suggestions, and ideas, or to ask your most puzzling weight loss questions.
 keywords: contact us,weight loss questions,comments
 permalink: /contact-us.html
+layout: splash
 ---
-# Contact Us
 
 Please use our "contact us" page if you have any comments, weight loss questions, suggestions for improvement, or healthy, low-calorie recipes you would like to share. I would appreciate your feedback. If your email requires a response, I'll answer as quickly as possible.
 

@@ -3,8 +3,10 @@ title: Aquatic Exercise For Weight Loss - Swimming Laps is Healthy
 description: Discover why aquatic exercise for weight loss, particularly water aerobics and swimming laps, is so effective for diet and wellness.
 keywords: aquatic exercise for weight loss,swimming laps,water aerobics
 image: /assets/images/aquatic-exercise-for-weight-loss-1.jpg
+header:
+   teaser: /assets/images/aquatic-exercise-for-weight-loss-1.jpg
 permalink: /aquatic-exercise-for-weight-loss.html
-index-snippet: Aquatic exercise for weight loss has become very popular for all ages and all levels of fitness.
+excerpt: Aquatic exercise for weight loss has become very popular for all ages and all levels of fitness.
 
 
 images:
@@ -14,8 +16,6 @@ images:
     height: 122
     width: 150
 ---
-
-## Aquatic Exercise For Weight Loss Includes Swimming Laps
 
 <div class="ImageBlock ImageBlockCenter" markdown="1">
 ![Welcome to Aquatic Exercise for Weight Loss](/assets/images/aquatic-exercise-for-weight-loss-1.jpg){:style="width:200px;height:163px;"}

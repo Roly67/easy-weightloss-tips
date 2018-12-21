@@ -3,8 +3,10 @@ title: Exercise Bike For Weight Loss Can Strengthen and Tone Legs
 description: Use an exercise bike for weight loss and save your joints!  This activity will tone legs and build strength, all while biking indoors.
 keywords: exercise bike for weight loss,biking indoors,tones legs
 image: /assets/images/exercise-bike-for-weight-loss-1.jpg
+header:
+   teaser: /assets/images/exercise-bike-for-weight-loss-1.jpg
 permalink: /exercise-bike-for-weight-loss.html
-index-snippet: Using an exercise bike for weight loss is an excellent idea for many reasons.
+excerpt: Using an exercise bike for weight loss is an excellent idea for many reasons.
 
 images:
   - url: /assets/images/exercise-bike-for-weight-loss-1.jpg
@@ -12,9 +14,10 @@ images:
     title: Welcome to Exercise Bike For Weight Loss
     height: 100
     width: 150
+
+categories: [Exercise]
 ---
 
-## Tone Legs With Exercise Bike for Weight Loss
 ![Welcome to Exercise Bike For Weight Loss](/assets/images/exercise-bike-for-weight-loss-1.jpg){:style="width:200px;height:133px;float:right;margin:0 0 8px 8px;"}
 
 Using an exercise bike for weight loss is an excellent idea for many reasons. 

@@ -3,8 +3,10 @@ title: Holiday Diet Tips to Stay in Control
 description: Holiday diet tips make it possible to chase your weight loss goals in the indulgent holiday season! The holidays don't have to ruin your weight loss plans, here's how you can stay in control
 keywords: holiday diet tips
 image: /assets/images/holidaydiet.jpg
+header:
+   teaser: /assets/images/holidaydiet.jpg
 permalink: /holiday-diet-tips.html
-index-snippet: So you're planning ahead and need some easy holiday diet tips that actually work? Great, you're tackling the problem head on and not ignoring it.
+excerpt: So you're planning ahead and need some easy holiday diet tips that actually work? Great, you're tackling the problem head on and not ignoring it.
 
 images:
   - url: /assets/images/holidaydiet.jpg
@@ -12,9 +14,9 @@ images:
     title: holiday diet tips
     height: 224
     width: 150
----
 
-## How to avoid the weight loss pitfalls!
+categories: [Weight Loss Diets]
+---
 
 So you're planning ahead and need some easy holiday diet tips that actually work? Great, you're tackling the problem head on and not ignoring it. For most people, the holiday season is always a challenging time when it comes to eating healthy, that's just the way it is with so many celebrations! However for those of us trying hard to actually lose weight, the holidays can be a huge problem that can knock us off track quite quickly!
 

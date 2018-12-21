@@ -3,8 +3,10 @@ title: A Heart Healthy Diet Limits Processed Foods
 description: Adopt a heart healthy diet to improve your quality of life.  Avoid processed foods in your diet, and add fresh foods which will boost your energy levels.
 keywords: heart healthy diet,energy level,processed foods
 image: /assets/images/healthy-weight-loss.jpg
+header:
+   teaser: /assets/images/healthy-weight-loss.jpg
 permalink: /heart-healthy-diet.html
-index-snippet: Too many people wait to begin a heart healthy diet when medical concerns arise. Heart issues can be a powerful motivator, but instead adopt a healthy lifestyle right now, and avoid the trauma and drama down the road!
+excerpt: Too many people wait to begin a heart healthy diet when medical concerns arise. Heart issues can be a powerful motivator, but instead adopt a healthy lifestyle right now, and avoid the trauma and drama down the road!
 
 images:
   - url: /assets/images/healthy-weight-loss.jpg
@@ -12,9 +14,9 @@ images:
     title: Welcome to heart healthy diet!
     height: 107
     width: 150
----
 
-## Promote Longevity, Vitality, & Mental Acuity!
+categories: [Weight Loss Diets]
+---
 
 ![Welcome to heart healthy diet!](/assets/images/healthy-weight-loss.jpg){:style="width:346px;height:248px;float:right;margin:0 0 8px 8px;"}
 

@@ -3,8 +3,10 @@ title: Free Printable Weight Loss Journal To Track Diet Progress
 description: Use our free printable weight loss journal to track your food intake, exercise expenditure, and overall diet progress on the road to confidence and success.
 keywords: printable weight loss journal,food intake,diet progress
 image: /assets/images/smaller-printable-weight-loss-journal-4.jpg
+header:
+   teaser: /assets/images/smaller-printable-weight-loss-journal-4.jpg
 permalink: /printable-weight-loss-journal.html
-index-snippet: These easy to use printable weight loss journals will help you stay focused and motivated as you work each day to reach your weight loss goals.
+excerpt: These easy to use printable weight loss journals will help you stay focused and motivated as you work each day to reach your weight loss goals.
 
 images:
   - url: /assets/images/smaller-printable-weight-loss-journal-4.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Printable Weight Loss Journal: Track Diet Progress
 ### Our Free Weight Loss Chart for Success! 
 
 ![Welcome to printable weight loss journal!](/assets/images/smaller-printable-weight-loss-journal-4.jpg){:style="width:250px;height:165px;" class="ImageBlock ImageBlockRight"}

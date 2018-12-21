@@ -3,8 +3,10 @@ title: FAQ-Fastest Way to Lose Weight Involves Sugar and Sodium
 description: FAQ-fastest way to lose weight and jump-start your diet is to drastically reduce the amount of sodium you consume, and competely give up sugar.
 keywords: faq-fastest way to lose weight,sugar,sodium
 image: /assets/images/Freshmen15-3.jpg
+header:
+   teaser: /assets/images/Freshmen15-3.jpg
 permalink: /faq-fastest-way-to-lose-weight.html
-index-snippet: FAQ - What is the fastest way to lose weight?
+excerpt: FAQ - What is the fastest way to lose weight?
 
 images:
   - url: assets/images/Freshmen15-3.jpg

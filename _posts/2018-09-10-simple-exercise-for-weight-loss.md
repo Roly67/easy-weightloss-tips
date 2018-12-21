@@ -3,8 +3,10 @@ title: Simple Exercise For Weight Loss Includes Aerobic Training
 description: Simple exercise for weight loss  can help you reach all your fitness goals by including aerobic training, strength training, and flexibility training.
 keywords: simple exercise for weight loss,fitness goals,aerobic training
 image: /assets/images/simple-exercise-for-weight-loss-1.jpg
+header:
+   teaser: /assets/images/simple-exercise-for-weight-loss-1.jpg
 permalink: /simple-exercise-for-weight-loss.html
-index-snippet: Are you looking for the one simple exercise for weight loss that will help you meet your fitness goals?  
+excerpt: Are you looking for the one simple exercise for weight loss that will help you meet your fitness goals?  
 
 images:
   - url: /assets/images/simple-exercise-for-weight-loss-1.jpg
@@ -13,8 +15,6 @@ images:
     height: 200
     width: 133
 ---
-
-## Simple Exercise For Weight Loss: Reach Fitness Goals
 
 ![Welcome to simple exercise for weight loss.](/assets/images/simple-exercise-for-weight-loss-1.jpg){:style="width:133px;height:200px;" class="ImageBlock ImageBlockRight"}
 Are you looking for the one simple exercise for weight loss that will help you meet your fitness goals?  

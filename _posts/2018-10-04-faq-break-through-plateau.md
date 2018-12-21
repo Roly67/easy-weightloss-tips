@@ -4,7 +4,7 @@ description: Tips to--faq-break through plateau-- and continue losing weight by 
 keywords: faq-break through plateau,workouts,diet
 image: 
 permalink: /faq-break-through-plateau.html
-index-snippet: Hi, a plateau usually just tells us that our body is used to the new routine, both with diet and exercise.
+excerpt: Hi, a plateau usually just tells us that our body is used to the new routine, both with diet and exercise.
 
 images:
   - url: 
@@ -14,7 +14,6 @@ images:
     width: 150
 ---
 
-## FAQ: What do I do when I'm stuck on a plateau?
 ### Voted "Best Answer" by Yahoo! Answers
 
 Hi, a plateau usually just tells us that our body is used to the new routine, both with diet and exercise. (Congrats on your weight loss, by the way!!) You need to change things up a bit. I would suggest that you do one of two extreme things. I would go temporarily on a "drastic diet" for one to two weeks max, such as this plan:

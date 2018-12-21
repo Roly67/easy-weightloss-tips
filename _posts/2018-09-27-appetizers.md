@@ -4,7 +4,7 @@ description: Appetizers and healthy hor d' oeuvres are easy to serve and enjoy w
 keywords: appetizers,healthy hors d'oeuvres,low-calorie recipe
 image: 
 permalink: /appetizers.html
-index-snippet: I just love healthy appetizers! I often like to make a meal of them. When I'm planning to entertain, I have the hardest time thinking of low-calorie, delicious, healthy hors d' oeuvres to serve to my guests.
+excerpt: I just love healthy appetizers! I often like to make a meal of them. When I'm planning to entertain, I have the hardest time thinking of low-calorie, delicious, healthy hors d' oeuvres to serve to my guests.
 
 
 images:
@@ -15,7 +15,6 @@ images:
     width: 150
 ---
 
-## Appetizers: Enjoy Our Healthy Hors d' oeuvres
 I just love healthy appetizers! I often like to make a meal of them. When I'm planning to entertain, I have the hardest time thinking of low-calorie, delicious, healthy hors d' oeuvres to serve to my guests.
 
 It's so easy to grab the chips and salsa or the block of cheese. Now I keep this list taped inside my kitchen cupboard so that I can quickly and easily make choices. 

@@ -3,8 +3,10 @@ title: Dieting at Christmas Should Result in Weight Maintenance
 description: Dieting at Christmas and other holiday weight loss is difficult at best.  Make weight maintenance your primary goal when you are surrounded by food.
 keywords: dieting at Christmas,holiday weight loss,weight maintenance
 image: /assets/images/j0422508.jpg
+header:
+   teaser: /assets/images/j0422508.jpg
 permalink: /dieting-at-christmas.html
-index-snippet: Ahh…the holidays! You’ve got to love them (right?), but dieting at Christmas-time can be one of the most difficult things imaginable. Temptation smacks us in the face everywhere we turn!
+excerpt: Ahh…the holidays! You’ve got to love them (right?), but dieting at Christmas-time can be one of the most difficult things imaginable. Temptation smacks us in the face everywhere we turn!
 
 images:
   - url: /assets/images/j0422508.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Dieting at Christmas: Make Weight Maintenance Your Goal
 ### Holiday Challenges Can Be Unique!
 
 <div class="ImageBlock ImageBlockRight" markdown="1">

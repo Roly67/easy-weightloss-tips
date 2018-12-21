@@ -3,8 +3,10 @@ title: Weight Loss Facts Include Daily Nutritional Guidelines
 description: Educate yourself about weight loss facts, especially daily nutritional guidelines and dangers of sodium, to assist with diet  and wellness planning.
 keywords: weight loss facts,daily nutritional guidelines,sodium
 image: /assets/images/diets5.jpg
+header:
+   teaser: /assets/images/diets5.jpg
 permalink: /weightlossfacts-3.html
-index-snippet: It's important to know your personal weight loss facts to ensure success! The recommended nutritional guidelines are incredibly important and need to be followed for optimal health.
+excerpt: It's important to know your personal weight loss facts to ensure success! The recommended nutritional guidelines are incredibly important and need to be followed for optimal health.
 
 images:
   - url: /assets/images/diets5.jpg
@@ -13,8 +15,6 @@ images:
     height: 99
     width: 150
 ---
-
-## Weight Loss Facts: Daily Nutritional Guidelines & Sodium
 
 ![Welcome to weight loss facts](/assets/images/diets5.jpg){:style="width:400px;height:265px;" class="ImageBlock ImageBlockCenter"}
 

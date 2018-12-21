@@ -3,26 +3,26 @@ title: Affiliate Disclaimer
 keywords: affiliate disclaimer,website disclaimer
 description: Affiliate disclaimer guidelines for Easy Weight Loss Tips. This website disclaimer outlines our advertising and compensation policies.
 permalink: /affiliate-disclaimer.html
+layout: splash
 ---
 
-## Affiliate Disclaimer..
-### Advertising:
+## Advertising
 
 I have affiliate products/links throughout my site for products that I either use in my own home or would like to use, but haven't purchased yet. If you purchase any products from these affiliate links, I will make a small commission which helps support my website.
 
-## Amazon Store:
+### Amazon Store
 
 I have an Amazon Store on my site, which includes products that I either own or would like to own. If you purchase any products from these affiliate links, I will make a small commission which helps support my website.
 
-## Adsense Ads:
+### Adsense Ads
 
 I have Google Adsense ads throughout my site that are supposed to present information in line with the topics presented on that page. If you click on any of the Google Adsense ads, I will receive a small commission which will help support my website.
 
-## Reviews:
+### Reviews
 
 If I write a review about a particular book or product, it is something that I already own, use, or have read. I do not receive any monetary compensation or commissions for these reviews or articles.
 
-## General Disclaimer:
+### General Disclaimer
 
 Easy Weight Loss Tips provides this website as a service.
 

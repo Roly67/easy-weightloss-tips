@@ -3,9 +3,8 @@ title: My Journey Through Weight Loss - A Quest for Normal Weight
 description: My journey to achieve and maintain a normal weight will hopefully offer inspiration to others who have shared the same struggles but who refuse to give up.
 keywords: my journey,normal weight,maintain
 permalink: /myjourney.html
+layout: splash
 ---
-
-# My Journey to Maintain a Normal Weight
 
 My journey to achieve and maintain a healthy weight isn't unique, I'm afraid! I was never a skinny person. I fought the battle as long as I can remember. For a long time, it was more like a skirmish than a battle. I was probably about fifteen pounds overweight most of my life. I was envious of my skinny friends, but I knew I still looked okay.  
 

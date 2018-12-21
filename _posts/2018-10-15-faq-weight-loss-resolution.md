@@ -3,11 +3,9 @@ title: FAQ-Weight Loss Resolution Prompts Lifestyle Change
 description: FAQ-Weight loss resolution for the new year should focus on lifestyle changes that involve healthier habits such as regular exercise and proper nutrition.
 keywords: faq-weight loss resolution,lifestyle,healthier
 permalink: /faq-weight-loss-resolution.html
-index-snippet: FAQ - What would be a good New Year’s resolution to help me lose weight? Voted "Best Answer" by Yahoo! Answers
+excerpt: FAQ - What would be a good New Year’s resolution to help me lose weight? Voted "Best Answer" by Yahoo! Answers
 
 ---
-
-## FAQ: What would be a good New Year’s resolution to help me lose weight?
 
 ### Voted "Best Answer" by Yahoo! Answers
 

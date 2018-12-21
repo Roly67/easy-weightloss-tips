@@ -3,8 +3,10 @@ title: Pregnancy Weight Loss and How to Lose Weight Afterwards
 description: Pregnancy weight loss should be approached in a different way to normal dieting. Here's how to use a highly nutritious diet and careful activity to lose pregnancy weight safely and effectively!
 keywords: pregnancy weight loss
 image: /assets/images/preganancy-weight-loss.jpg
+header:
+   teaser: /assets/images/preganancy-weight-loss.jpg
 permalink: /pregnancy-weight-loss.html
-index-snippet: Are you worried about pregnancy weight loss? Well first of all, congratulations! Your body has just experienced an amazing miracle! Rejoice in that and don’t be too quick to jump into a conventional weight loss plan.
+excerpt: Are you worried about pregnancy weight loss? Well first of all, congratulations! Your body has just experienced an amazing miracle! Rejoice in that and don’t be too quick to jump into a conventional weight loss plan.
 
 images:
   - url: /assets/images/preganancy-weight-loss.jpg
@@ -12,9 +14,9 @@ images:
     title: pregnancy weight loss is possible when done safely and effectively
     height: 172
     width: 150
----
 
-## Eating your way back to a great figure!
+categories: [Weight Loss Diets]
+---
 
 Are you worried about pregnancy weight loss? Well first of all, congratulations! Your body has just experienced an amazing miracle! Rejoice in that and don’t be too quick to jump into a conventional weight loss plan. Losing pregnancy related weight is different to trying to drop a few over-indulgent pounds. The way forward is to make “good nutrition” your goal instead of 'losing weight', that way you'll see the benefits quicker and enjoy them much more. Let's discuss some important post-baby weight loss secrets to make your journey easier.
 

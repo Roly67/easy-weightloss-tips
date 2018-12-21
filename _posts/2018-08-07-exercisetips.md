@@ -3,8 +3,10 @@ title: Exercise Tips - Get Moving for Healthy Weight Loss
 description: Our exercise tips are designed specifically to promote healthy weight loss for anyone in need of motivation to get up and get moving!
 keywords: exercise tips,get moving,healthy weight loss
 image: /assets/images/js_exercisetips2.jpg
+header:
+   teaser: /assets/images/js_exercisetips2.jpg
 permalink: /exercisetips.html
-index-snippet: Are you in need of exercise tips to encourage rapid and healthy weight loss?  
+excerpt: Are you in need of exercise tips to encourage rapid and healthy weight loss?  
 
 
 images:
@@ -14,8 +16,6 @@ images:
     height: 226
     width: 150
 ---
-
-## Exercise Tips Enable Healthy Weight Loss: Get Moving!
 
 Are you in need of exercise tips to encourage rapid and healthy weight loss?  
 

@@ -4,7 +4,7 @@ description: FAQ-Low-calorie breakfast items are easy. Add protein, such as hard
 keywords: faq-low calorie breakfast,smoothie,protein
 image: 
 permalink: /faq-low-calorie-breakfast.html
-index-snippet: What can I eat for a low-calorie breakfast? Voted "Best Answer" by Yahoo! Answers.
+excerpt: What can I eat for a low-calorie breakfast? Voted "Best Answer" by Yahoo! Answers.
 
 images:
   - url: 

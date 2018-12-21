@@ -2,37 +2,7 @@
 title: Easy Weight Loss Tips Blog
 description: Easy-weightloss-tips.com offers tips for weight loss, activity, low-calorie recipes, and more! Check back regularly or subscribe to the feed to stay up to date
 keywords: weight loss,diet,tips,exercise,health
+layout: home
+sidebar:
+  nav: "sidebar1"
 ---
-<h1>Easy Weight Loss Tips Blog</h1>
-<p>Welcome to the Easy Weight Loss Tips Blog! This is where you can keep up with the latest news and information on dieting and weight loss.</p>
-<ul>
-  {% for post in paginator.posts %}
-    <li class="blogItItem">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      	<div class="blogItThumbnail">
-	      	{% assign image = post.images[0] %}
-	      	{% include image.html image=image %}
-  		</div>
-  		{{ post.index-snippet }}
-  		<div class="clearfix"></div>
-    </li>
-  {% endfor %}
-</ul>
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>

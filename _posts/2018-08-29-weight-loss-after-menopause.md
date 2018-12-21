@@ -2,9 +2,11 @@
 title: Weight Loss After Menopause | Starting Your Metabolic Surge
 description: Weight loss after menopause may seem impossible, but healthy lifestyle changes that amp up the metabolism make it a reachable goal. Here's how..
 keywords: weight loss after menopause,metabolism,weight loss diet
-image: /assets/
+image: /assets/images/weight-loss-after-menopause3.jpg
+header:
+   teaser: /assets/images/weight-loss-after-menopause3.jpg
 permalink: /weight-loss-after-menopause.html
-index-snippet: Is it possible to achieve effective weight loss after menopause? 
+excerpt: Is it possible to achieve effective weight loss after menopause? 
 
 images:
   - url: /assets/images/weight-loss-after-menopause3.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Weight Loss After Menopause: Time to modify your lifestyle and metabolism
 Is it possible to achieve effective weight loss after menopause? Have you noticed that you’ve had trouble maintaining the weight that you used to be able to manage easily? Or do you find that your extra weight has started to accumulate around your abdomen specifically when it used to be evenly spread? Welcome to the post-menopausal trend! You may not be happy about it, but don't panic, you can turn it around!
 
 That’s the good news! The bad news is that in order to have weight loss after menopause, you’re going to have to accept that what has worked for you for the past 50 years, works no longer! Menopause-related weight issues generally begin during perimenopause. The majority of women gain about a pound a year during this time leading up to menopause. Don’t assume that changes in hormone levels are the primary cause for this weight gain, other factors such as lifestyle, genetics, and aging play an important role as well.

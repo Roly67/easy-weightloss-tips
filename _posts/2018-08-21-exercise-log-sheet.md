@@ -3,8 +3,10 @@ title: An Exercise Log Sheet Is A Great Motivational Tool
 description: Our exercise log sheet is free and printable.  It is a wonderful motivational tool for any weight loss program and will help keep you on track!
 keywords: exercise log sheet,motivational tool,weight loss program
 permalink: /exercise-log-sheet.html
-image: /assets/
-index-snippet: An exercise log sheet has long been regarded as a valuable weight loss tool, but recent research claims that using one can actually double your weight loss efforts.
+image: /assets/images/js_jst_exercise-log-sheet-1-mod.jpg
+header:
+   teaser: /assets/images/js_jst_exercise-log-sheet-1-mod.jpg
+excerpt: An exercise log sheet has long been regarded as a valuable weight loss tool, but recent research claims that using one can actually double your weight loss efforts.
 
 images:
   - url: /assets/images/js_jst_exercise-log-sheet-1-mod.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Free Exercise Log Sheet: Voted Best Motivational Tool
 __[It's Printable!]__
 
 <div class="ImageBlock ImageBlockRight" markdown="1">

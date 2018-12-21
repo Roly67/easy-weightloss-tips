@@ -3,8 +3,10 @@ title: Lose Weight in a Week and Feel Great in only 7 Days
 description: You really CAN lose weight in a week and actually feel the difference by following a few rules for eating right to shed pounds quickly! Here's a short guide to help you lose weight in only one week.
 keywords: lose weight in a week
 image: /assets/images/lose-weight-in-a-week.jpg
+header:
+   teaser: /assets/images/lose-weight-in-a-week.jpg
 permalink: /lose-weight-in-a-week.html
-index-snippet: Most people who need fast weight loss try to achieve it by fasting or starving themselves. BIG mistake! 
+excerpt: Most people who need fast weight loss try to achieve it by fasting or starving themselves. BIG mistake! 
 
 images:
   - url: /assets/images/lose-weight-in-a-week.jpg
@@ -12,10 +14,9 @@ images:
     title: Everyone can lose weight in a week by avoiding empty calories
     height: 100
     width: 150
----
 
-## Want to Lose Weight in a Week?
-### Yes you can, by avoiding Empty Calories to get results FAST!
+categories: [Weight Loss Diets]
+---
 
 Did you know you could actually lose weight in a week? Most of us want to lose weight as quickly as possible, so if rapid weight loss is your goal, keep reading as this page will talk you through some of the best approaches to dropping weight in 7 days! Most people who need fast weight loss try to achieve it by fasting or starving themselves. BIG mistake! What many people don't realize is that this type of approach is the WORST possible way to lose weight fast! Surprised I bet? Well let's just take a moment and talk about why this doesn't work..
 

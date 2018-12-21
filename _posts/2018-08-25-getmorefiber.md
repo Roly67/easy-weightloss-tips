@@ -4,7 +4,7 @@ description: Easily get more fiber in your diet with the addition of vegetables,
 keywords: get more fiber,fruit,vegetables
 image: 
 permalink: /getmorefiber.html
-index-snippet: 
+excerpt: 
 
 images:
   - url: 
@@ -14,7 +14,6 @@ images:
     width: 150
 ---
 
-## Add Fruits and Vegetables to Get More Fiber!
 * Start with a high-fiber cereal for breakfast. Top it with fresh fruit for an added boost.
 * Add crushed bran cereal to recipes such as meatloaf, muffins, casseroles, or salads. 
 

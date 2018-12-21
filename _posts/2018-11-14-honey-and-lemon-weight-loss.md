@@ -4,7 +4,9 @@ description: If you struggle against weight gain, consider using raw honey and l
 keywords: honey and lemon for weight loss
 permalink: /Honey-and-Lemon-for-weight-loss.htm
 image: /assets/images/lemonhoney.jpg
-index-snippet: If you struggle against weight gain, consider using raw honey and lemon for natural weight loss.
+header:
+   teaser: /assets/images/lemonhoney.jpg
+excerpt: If you struggle against weight gain, consider using raw honey and lemon for natural weight loss.
 
 images:
   - url: /assets/images/lemonhoney.jpg
@@ -12,9 +14,10 @@ images:
     title: If you struggle against weight gain, consider using raw honey and lemon for natural weight loss
     height: 100 
     width: 150
+
+categories: [Healthy Eating]    
 ---
 
-## Honey And Lemon For Weight Loss
 If you struggle against weight gain, consider using [raw honey]({{ site.baseurl }}{% post_url 2018-11-13-raw-honey %}) and lemon for weight loss.  They are capable of striking a blow against weight gain, aiding the digestive processes and prevent fat from forming.  Together, they pack an even stronger – and more nutritious – punch.
 
 ![Welcome to Honey And Lemon For Weight Loss](/assets/images/lemonhoney.jpg){:style="width:319px;height:213px;" class="ImageBlock ImageBlockCenter"}

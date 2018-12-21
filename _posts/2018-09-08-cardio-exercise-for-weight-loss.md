@@ -3,8 +3,10 @@ title: Cardio Exercise For Weight Loss Involves Aerobic Training
 description: Include cardio exercise for weight loss success! Cardiovascular activity and aerobic training are proven winners when it comes to health and wellness.
 keywords: cardio exercise for weight loss,aerobic training,cardiovascular activity
 image: /assets/images/cardio-exercise-for-weight-loss-2.jpg
+header:
+   teaser: /assets/images/cardio-exercise-for-weight-loss-2.jpg
 permalink: /cardio-exercise-for-weight-loss.html
-index-snippet: 
+excerpt: 
 
 images:
   - url: /assets/images/cardio-exercise-for-weight-loss-2.jpg
@@ -14,7 +16,6 @@ images:
     width: 100
 ---
 
-## Include Cardio Exercise For Weight Loss Progress
 ### FEEL THE BURN!
 
 ![Welcome to Cardio Exercise for Weight Loss](/assets/images/cardio-exercise-for-weight-loss-2.jpg){:style="width:100px;height:71px;" class="ImageBlock ImageBlockRight"}

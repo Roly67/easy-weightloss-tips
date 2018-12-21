@@ -3,8 +3,10 @@ title: Quick Weight Loss Tips to Drop Weight Fast
 description: These quick weight loss tips are great to begin your dieting and keep you motivated, so it's essential to carefully plan your meals! Here's how.
 keywords: quick weight loss tips
 image: /assets/images/quick-weight-loss-tips.jpg
+header:
+   teaser: /assets/images/quick-weight-loss-tips.jpg
 permalink: /quick-weight-loss-tips.html
-index-snippet: Are you tired of S-L-O-W weight loss? Do you need some quick weight loss tips? Try these special weight loss tips for rapid results. In only a few weeks you'll feel transformed and have the motivation to keep working towards a new and improved you!
+excerpt: Are you tired of S-L-O-W weight loss? Do you need some quick weight loss tips? Try these special weight loss tips for rapid results. In only a few weeks you'll feel transformed and have the motivation to keep working towards a new and improved you!
 
 images:
   - url: /assets/images/quick-weight-loss-tips.jpg
@@ -12,9 +14,9 @@ images:
     title: Quick Weight Loss Tips and Meal Planning
     height: 184
     width: 150
----
 
-## Plan Your Meals - 12 Ways to See Fast Results!
+categories: [Weight Loss Tips]
+---
 
 Are you tired of S-L-O-W weight loss? Do you need some quick weight loss tips? Maybe you have a special event coming up soon and you need to fit into that little black dress. Or maybe you have an important interview scheduled and you want to 'feel thinner' and more confident. Try these special weight loss tips for rapid results. In only a few weeks you'll feel transformed and have the motivation to keep working towards a new and improved you!
 
