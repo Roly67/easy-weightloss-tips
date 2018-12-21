@@ -27,13 +27,13 @@ Detoxification is another benefit that apple cider vinegar brings. It has been s
 ![Welcome to Apple Cider Vinegar Weight Loss](/assets/images/applecidervinegar2.jpg){:style="width:307px;height:273px;"}
 </div>
 
-<div class="clearfix"></div>
 Wait! There’s more! Recent studies about apple cider vinegar revealed that it could also aid people who had been struggling to lose weight. It was proposed that apple cider vinegar has properties that suppress appetite. Furthermore, enzymes and organic acids that are present in apple cider vinegar are thought to speed up body’s metabolism. In simple terms, it hastens the body’s ability to burn fat that could result to weight loss if coupled with a non-sedentary lifestyle. It has long been established that apple cider vinegar, limits the rise of blood sugar or glucose.This means that insulin levels are low which in turn promotes weight loss. There are no guarantees but a lot has already been proven when it comes to the weight reducing property of apple cider vinegar.
 
 So how much [apple cider vinegar]({{ site.baseurl }}{% post_url 2018-11-12-apple-cider-vinegar-and-raw-honey %}) does a person needs to get all these benefits? Surprisingly, for beginners, the advice would be to mix a teaspoon of [apple cider vinegar]({{ site.baseurl }}{% post_url 2018-11-12-apple-cider-vinegar-and-raw-honey %}) in a glass of water to be taken once a day. The taste takes a couple days to get used to.
 
-![Try Apple Cider Vinegar](/assets/images/applecider.jpg){:style="width:260px;height:368px;float:left;margin:0 10px 10px 0;"}
-<div class="clearfix"></div>
+<div class="ImageBlock ImageBlockRight" markdown="1">
+![Try Apple Cider Vinegar](/assets/images/applecider.jpg){:style="width:260px;height:368px;"}
+</div>
 Overall, apple cider vinegar brings a lot to the table. Although all the benefits mentioned are not guaranteed to happen to every person who will use the product, it is still one of the most widely-accepted home remedy for allergy, detoxification and losing weight.
 
 It should be kept in mind though that losing weight doesn’t happen overnight no matter how expensive or effective a method might be. Losing weight is a gradual process. Apple cider vinegar will speed up the whole losing weight process but it will still come down to the person’s lifestyle, discipline and determination to lose weight.
