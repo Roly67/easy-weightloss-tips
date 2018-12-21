@@ -4,7 +4,7 @@ description: It's easy to burn maximum calories if you know calories expended pe
 keywords: burn maximum calories
 image: 
 permalink: /burn-maximum-calories.html
-index-snippet: Anyone trying to lose weight knows how important it is to burn maximum calories!
+excerpt: Anyone trying to lose weight knows how important it is to burn maximum calories!
 
 images:
   - url: /assets/
@@ -13,8 +13,6 @@ images:
     height: 198
     width: 150
 ---
-
-## Burn Maximum Calories.. By Understanding Calories Expended
 
 Anyone trying to lose weight knows how important it is to burn maximum calories! Activity equals weight loss so it's imperative to find ways to be more active! The excellent news is that everything we do burns calories! Your body even burns calories at rest. This is commonly called your [basal metabolic rate]({{ site.baseurl }}{% post_url 2018-09-11-basal-metabolic-rate %}). Take a look at the comparison between these common activities and the number of calories they burn, based on body weight!
 

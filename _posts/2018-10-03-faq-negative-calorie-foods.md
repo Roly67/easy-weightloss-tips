@@ -4,7 +4,7 @@ description: FAQ-Negative calorie foods are described as those items that burn m
 keywords: faq-negative calorie foods,burn more calories,digest
 image: 
 permalink: /faq-negative-calorie-foods.html
-index-snippet: Celery is very low in calories though and like most vegetables that are eaten without something else on them (dips and such), they are very healthy and add very few calories to your daily total.
+excerpt: Celery is very low in calories though and like most vegetables that are eaten without something else on them (dips and such), they are very healthy and add very few calories to your daily total.
 
 images:
   - url: 
@@ -14,7 +14,6 @@ images:
     width: 150
 ---
 
-## FAQ: Does celery really have negative calories?
 ### Voted "Best Answer" by Yahoo! Answers
 
 Hi, the theory is that some foods burn more calories to chew and digest than they contain. Sadly there are no such things as "negative calorie" foods, according to my research, but people insist on believing there are! Celery is very low in calories though and like most vegetables that are eaten without something else on them (dips and such), they are very healthy and add very few calories to your daily total.

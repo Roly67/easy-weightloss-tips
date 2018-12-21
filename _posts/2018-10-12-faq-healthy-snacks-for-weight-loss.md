@@ -1,10 +1,10 @@
 ---
-title: FAQ-Healthy Snacks For Weight Loss Are Nutritious
+title: FAQ - What can I eat for a healthy snack?
 description: FAQ-Healthy snacks for weight loss success should be not only easy, delicious, and satisfying, but they should also be nutritious, low-calorie, and low-fat.
 keywords: faq-healthy snacks for weight loss,nutritious,low-calorie
 image: 
 permalink: /faq-healthy-snacks-for-weight-loss.html
-index-snippet: Healthy Snacks for Weight Loss Are Nutritious. Voted "Best Answer" by Yahoo! Answers.
+excerpt: Healthy Snacks for Weight Loss Are Nutritious. Voted "Best Answer" by Yahoo! Answers.
 
 images:
   - url: 
@@ -13,8 +13,6 @@ images:
     height: 107
     width: 150
 ---
-
-## FAQ: What can I eat for a healthy snack?
 
 ### Voted "Best Answer" by Yahoo! Answers
 

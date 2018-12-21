@@ -3,8 +3,10 @@ title: Sleep Deprivation Is One Possible Cause of Obesity
 description: The relationship between sleep deprivation and obesity is very interesting.  By getting more sleep, you can actually regulate hunger hormones!
 keywords: sleep deprivation,obesity,regulate hunger
 image: /assets/images/sleep-deprivation-4.jpg
+header:
+   teaser: /assets/images/sleep-deprivation-4.jpg
 permalink: /sleepdeprivation.html
-index-snippet: Do you suffer from sleep deprivation? 
+excerpt: Do you suffer from sleep deprivation? 
 
 images:
   - url: /assets/images/sleep-deprivation-4.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Fight Obesity and Regulate Hunger: Attack Sleep Deprivation
 <div class="ImageBlock ImageBlockRight" markdown="1">
 ![Welcome to Sleep Deprivation](/assets/images/sleep-deprivation-4.jpg){:style="width:300px;height:199px;"}
 </div>

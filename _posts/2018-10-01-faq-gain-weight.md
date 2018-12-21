@@ -4,7 +4,7 @@ description: FAQ-Gain weight correctly with balanced meals.  Enjoy healthy snack
 keywords: faq-gain weight,protein powder,snacks
 image: 
 permalink: /faq-gain-weight.html
-index-snippet: FAQ - How can I gain weight and stay fit?
+excerpt: FAQ - How can I gain weight and stay fit?
 
 
 images:
@@ -15,7 +15,6 @@ images:
     width: 150
 ---
 
-## FAQ: How can I gain weight and stay fit?
 ### Voted "Best Answer" by Yahoo! Answers
 
 It may be easier to eat six or more smaller, balanced meals rather than eating three large meals, especially if you’re not used to eating much at one time. 

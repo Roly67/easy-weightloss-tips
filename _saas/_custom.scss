@@ -1,0 +1,105 @@
+
+
+/* ========================================================================== USER CUSTOM STYLES ========================================================================== */
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.CalloutBox {
+    color: #ffffff;
+    background-color: #d5ac54;
+    margin: 40px auto;
+    padding: 1px 0;
+}
+
+div.CalloutBox p {
+    padding: 0 20px;
+    margin: 20px 0;
+}
+
+div.CalloutBox h4{
+    text-align:center;
+}
+
+.ReminderBox {
+    color: #ffffff;
+    background-color: #78ba4a;
+    width: 200px;
+    float: right;
+    padding: 20px;
+    margin: 10px 0 20px 20px;
+}
+
+.Clear {
+    clear: both;
+}
+
+.ImageBlock {
+    text-align: center;
+}
+
+.ImageBlock a {
+    text-decoration: none;
+}
+
+.ImageBlockCenter {
+    margin: 15px 0;
+}
+
+.ItemRight {
+    float: right;
+    margin: 5px 0 15px 20px;
+    text-align: left;
+}
+
+.ItemCenter {
+    margin: 5px auto 15px auto;
+    text-align: center;
+    clear: both;
+}
+
+.ItemLeft {
+    float: left;
+    margin: 5px 20px 15px 0;
+    text-align: left;
+}
+
+/* -- ImageBlock -- */
+
+/* none-JavaScript fix for too large images */
+.ImageBlock img {
+    max-width: 100%;
+}
+
+.ImageBlock {
+    overflow: hidden;
+}
+
+.ImageBlockLeft {
+    float: left;
+    text-align: center;
+}
+
+.ImageBlockLeft img {
+    margin-right: 15px;
+}
+
+.ImageBlockRight {
+    float: right;
+    text-align: center;
+}
+
+.ImageBlockRight img {
+    margin-left: 15px;
+}
+
+.ImageBlockRight .Caption {
+    margin-left: 15px;
+}
+
+.ImageBlockCenter {
+    text-align: center;
+}

@@ -3,8 +3,10 @@ title: Free Mediterranean Diet Recipes Include Nutrient-Rich Foods
 description: Enjoy these free Mediterranean diet recipes and help avoid and reverse heart disease by eating a diet abundant in nutrient-rich foods.
 keywords: free mediterranean diet recipes,nutrient-rich foods,heart disease
 image: /assets/images/dreamstime_xs_13780852.jpg
+header:
+   teaser: /assets/images/dreamstime_xs_13780852.jpg
 permalink: /free-mediterranean-diet-recipes.html
-index-snippet: Enjoy these free Mediterranean diet recipes and experience satisfaction on every level!
+excerpt: Enjoy these free Mediterranean diet recipes and experience satisfaction on every level!
 
 
 images:
@@ -13,6 +15,8 @@ images:
     title: Welcome to Free Mediterranean Diet Recipes
     height: 141
     width: 150
+
+categories: [Free Diet Recipes]
 ---
 
 ![Welcome to Free Mediterranean Diet Recipes](/assets/images/dreamstime_xs_13780852.jpg){:style="width:240px;height:225px;float:right;margin:0 0 8px 8px;"}

@@ -3,8 +3,10 @@ title: The Dukan Diet is the High-Protein, Low-Carb Success Story
 description: The Dukan Diet consists primarily of high-protein, low-carb, low-sugar foods.  It results in some of the fastest weight loss I've ever experienced.
 keywords: the dukan diet,high-protein,low-carb
 image: /assets/images/high-protein-foods-1.jpg
+header:
+   teaser: /assets/images/high-protein-foods-1.jpg
 permalink: /the-dukan-diet.html
-index-snippet: The Dukan Diet first came on my radar as I watched my friend, Gigi, become "the incredible shrinking woman" right before my eyes.
+excerpt: The Dukan Diet first came on my radar as I watched my friend, Gigi, become "the incredible shrinking woman" right before my eyes.
 
 images:
   - url: /assets/images/high-protein-foods-1.jpg
@@ -13,8 +15,6 @@ images:
     height: 226
     width: 150
 ---
-
-## The Dukan Diet: Low-Carb, High-Protein
 
 ![Welcome to the dukan diet](/assets/images/high-protein-foods-1.jpg){:style="width:139px;height:209px;" class="ImageBlock ImageBlockRight"}
 

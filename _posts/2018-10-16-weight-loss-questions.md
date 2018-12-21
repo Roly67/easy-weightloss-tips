@@ -4,7 +4,7 @@ description: Our FAQ, or frequently asked weight loss questions about dieting, c
 keywords: weight loss questions,FAQ,dieting
 image: 
 permalink: /weight-loss-questions.html
-index-snippet: Do you have weight loss questions that puzzle you on your journey to get healthier? Well, you are definitely not alone! Occasionally I answer dieting queries on Yahoo! Answers. If you are not familiar with Yahoo! Answers, they have dozens of topics or categories where visitors can ask questions of their own and/or provide answers to others. Anyone can participate and it is free to sign up. This forum provides an outlet for people to share their expertise and knowledge to help others.
+excerpt: Do you have weight loss questions that puzzle you on your journey to get healthier? Well, you are definitely not alone! Occasionally I answer dieting queries on Yahoo! Answers. If you are not familiar with Yahoo! Answers, they have dozens of topics or categories where visitors can ask questions of their own and/or provide answers to others. Anyone can participate and it is free to sign up. This forum provides an outlet for people to share their expertise and knowledge to help others.
 
 images:
   - url: 
@@ -12,9 +12,10 @@ images:
     title: 
     height: 150
     width: 150
+
+categories: [Weight Loss Tips]
 ---
 
-## Weight Loss Questions: Dieting FAQ
 Do you have weight loss questions that puzzle you on your journey to get healthier? Well, you are definitely not alone! Occasionally I answer dieting queries on Yahoo! Answers. If you are not familiar with Yahoo! Answers, they have dozens of topics or categories where visitors can ask questions of their own and/or provide answers to others. Anyone can participate and it is free to sign up. This forum provides an outlet for people to share their expertise and knowledge to help others.
 
 Answers are often in the form of personal opinions and sometimes need to be taken with a grain of salt. Sarcasm and humor are rampant, which only makes the experience more interesting. Actual experts, bonafide professionals, also contribute. In fact, Yahoo! Answers often shows up quickly and high up in search engine results!

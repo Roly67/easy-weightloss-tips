@@ -3,8 +3,10 @@ title: Health Benefits of Exercise Include Stronger Immune System
 description: The health benefits of exercise include mental alertness, a stronger immune system, and a decreased risk for heart disease and fatigue.
 keywords: health benefits,exercise,immune system
 image: /assets/images/js_healthbenefits1.jpg
+header:
+   teaser: /assets/images/js_healthbenefits1.jpg
 permalink: /healthbenefits.html
-index-snippet: We all know we should get up and move more, but rarely do we contemplate exactly what we are getting out of the experience.
+excerpt: We all know we should get up and move more, but rarely do we contemplate exactly what we are getting out of the experience.
 
 images:
   - url: /assets/images/js_healthbenefits1.jpg
@@ -15,7 +17,6 @@ images:
 
 ---
 
-## Boost Your Immune System: Health Benefits of Exercise
 Listed below are some of the more obvious health benefits of exercise. We all know we should get up and move more, but rarely do we contemplate exactly what we are getting out of the experience.  
 
 It's easy to see the importance of [activity]({{ site.baseurl }}{% post_url 2018-08-08-activity %}). Frequently, all you have to do is look around at your peers to see the obvious benefits. Which colleagues, co-workers, family members look younger, fitter, trimmer?  

@@ -3,8 +3,10 @@ title: The Pilots Diet, Effective Food Combination Diet Plan!
 description: The Pilots Diet is a 28-day drastic diet using the theory of food combinations for successful weight loss. It's right out of the 70's but offers amazing results so find out more here.
 keywords: the pilots diet
 image: /assets/images/olive-oil-and-tomatoes.jpg
+header:
+   teaser: /assets/images/olive-oil-and-tomatoes.jpg
 permalink: /the-pilots-diet.html
-index-snippet: The Pilots Diet is a 28-day drastic diet using the theory of food combinations for successful weight loss. It's right out of the 70's but offers amazing results so find out more here.
+excerpt: The Pilots Diet is a 28-day drastic diet using the theory of food combinations for successful weight loss. It's right out of the 70's but offers amazing results so find out more here.
 
 images:
   - url: /assets/images/olive-oil-and-tomatoes.jpg
@@ -12,6 +14,8 @@ images:
     title: Welcome to the Pilots diet
     height: 154
     width: 150
+
+categories: [Weight Loss Diets]
 ---
 The Pilots Diet is about as retro as they come! This is a drastic diet, reminiscent of the 1980s, which delivers amazing results if you're willing to follow it to a "T". Veer off course even a little, and you've changed the outcome of it all! Developed around the theory of food combinations, the diet claims that it's the chemical reactions from food that are more important than calorie consumption. Don't get too excited yet though.. This is definitely a low-calorie diet! So let's talk about what this drastic diet can offer you and how it'll benefit your weight loss targets.
 
@@ -23,7 +27,7 @@ Check out this popular product on how to drop up to 20 pounds off your belly in 
 ![Welcome to the Pilots diet](/assets/images/olive-oil-and-tomatoes.jpg){:style="height:269px;width:301px"}
 </div>
 <div class="ImageBlock ImageBlockRight" markdown="1">
-[!["The 3 Week Diet"](//www.3weekdiet.com/images/300x250-women.jpg){:style="height:250px;width:300px;"}]({{site.affiliate_links_clickbank_3_week_diet}}){:target="_blank" style="height:250px;width:300px;"}
+[!["The 3 Week Diet"](//www.3weekdiet.com/images/300x250-women.jpg){:style="height:250px;width:300px;"}]({{site.monetization.affiliate_links_clickbank_3_week_diet}}){:target="_blank" style="height:250px;width:300px;"}
 </div>
 <div class="clearfix"></div>
 

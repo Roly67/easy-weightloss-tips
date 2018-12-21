@@ -4,7 +4,7 @@ description: Diet books can educate, motivate, and help jump-start  your diet. L
 keywords: diet books,books for weight loss,lose weight books
 permalink: /diet-books.html
 image: 
-index-snippet: Hundreds of diet books for weight loss exist that concern dieting and exercise. Many are even fun to read and easy to understand.
+excerpt: Hundreds of diet books for weight loss exist that concern dieting and exercise. Many are even fun to read and easy to understand.
 
 images:
   - url: 
@@ -13,8 +13,6 @@ images:
     height: 100
     width: 150
 ---
-
-## Diet Books For Weight Loss Inspiration!
 
 Hundreds of diet books for weight loss exist that concern dieting and exercise. Many are even fun to read and easy to understand! The science behind losing weight doesn't seem to change much, does it? It's pretty much always been "calories in versus calories out."  
 

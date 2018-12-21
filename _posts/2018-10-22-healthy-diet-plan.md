@@ -3,8 +3,10 @@ title: The Perfect Healthy Diet Plans to Lose Weight!
 description: A Healthy Diet Plan is the crucial first step on the road to achieving your weight loss goals. Find out everything you need to know about weight loss plans that suit you!
 keywords: healthy diet plan
 image: /assets/images/diet-plan.jpg
+header:
+   teaser: /assets/images/diet-plan.jpg
 permalink: /healthy-diet-plan.html
-index-snippet: Are you looking for a healthy diet plan that will help you achieve your weight loss goals? If so, you're already ahead of 90% of other dieters looking to reach their weight loss goals!
+excerpt: Are you looking for a healthy diet plan that will help you achieve your weight loss goals? If so, you're already ahead of 90% of other dieters looking to reach their weight loss goals!
 
 images:
   - url: /assets/images/diet-plan.jpg
@@ -12,9 +14,9 @@ images:
     title: A healthy diet plan is the place to start for weight loss
     height: 149
     width: 150
----
 
-## It's the first step on your weight loss journey!
+categories: [Weight Loss Diets]
+---
 
 ![A healthy diet plan is the place to start for weight loss](/assets/images/diet-plan.jpg){:style="width:317px;height:315px;float:right;margin:0 0 8px 8px;"}
 

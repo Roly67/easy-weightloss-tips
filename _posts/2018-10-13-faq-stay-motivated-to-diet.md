@@ -1,10 +1,12 @@
 ---
-title: FAQ-Stay Motivated to Diet
+title: FAQ - How can I stay motivated to diet?
 description: FAQ-Stay motivated to diet throughout your weight loss journey by using diet tips that you can easily find in the form of books, quotes, and websites.
 keywords: faq-stay motivated to diet,weight loss,tips
 image: /assets/images/more-diets3.jpg
+header:
+   teaser: /assets/images/more-diets3.jpg
 permalink: /faq-stay-motivated-to-diet.html
-index-snippet: How can I stay motivated to diet? Voted "Best Answer" by Yahoo! Answers.
+excerpt: How can I stay motivated to diet? Voted "Best Answer" by Yahoo! Answers.
 
 images:
   - url: /assets/images/more-diets3.jpg
@@ -13,10 +15,6 @@ images:
     height: 107
     width: 150
 ---
-
-## Tips for Weight Loss
-
-### FAQ: How can I stay motivated to diet?
 
 ### Voted "Best Answer" by Yahoo! Answers
 

@@ -4,7 +4,7 @@ description: Enjoy low-calorie side dishes and other easy, healthy recipes that 
 keywords: side dishes
 image: 
 permalink: /sidedishes.html
-index-snippet: I have labeled these recipes as side dishes although many of them would make delicious, vegetarian entrees. Let's start with my bean concoction!
+excerpt: I have labeled these recipes as side dishes although many of them would make delicious, vegetarian entrees. Let's start with my bean concoction!
 
 
 images:
@@ -13,6 +13,8 @@ images:
     title: 
     height: 100
     width: 150
+
+categories: [Free Diet Recipes]
 ---
 
 I have labeled these recipes as side dishes although many of them would make delicious, [vegetarian]({{ site.baseurl }}{% post_url 2018-11-06-vegetarian-weight-loss %}) entrees. Let's start with my bean concoction! Drain, rinse, and add 1 can each of black beans, kidney beans, and garbanzo beans to a large bowl. Add diced onion, celery, green peppers, and carrots. Mix together with salt, pepper, garlic powder (or fresh), 1 T. olive oil, and 4 T. red wine vinegar then refrigerate.

@@ -1,17 +1,30 @@
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+search: true
+repository: Roly67/easy-weightloss-tips
+
 sass:
   sass_dir: ./_saas
 
 plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
    - jekyll-sitemap
    - jekyll-feed
-   - jekyll-seo-tag
    - jekyll-paginate
+   - jekyll-include-cache
 
 encoding: utf-8
 
 title: Easy Weight Loss Tips
-description: Easy weight loss tips are all you need to help you lose weight and look great quickly.. It's all about sensible weight loss tips that actually work!
+title_separator: "|"
+name: Easy Weight Loss Tips
+description: Lose Weight Quickly and Effectively. Find out about healthy eating, diets, recipes, exercises and more today.
 url: https://www.easy-weightloss-tips.com
+breadcrumbs: false
+teaser: /assets/images/healthy-weight-loss.jpg
+
 contact_email_main: hello@rolosoft.com
 facebook:
   app_id: 294885707289602
@@ -21,39 +34,64 @@ include:
   - _pages
   - blog
 
-
 paginate: 5
 paginate_path: "/blog/page:num"
-
-logo: /assets/images/logo1-12/jpg
 
 webmaster_verifications:
   alexa: 9J8cP3hTckG7aXS-86xImgi64L4
 
 social:
+  type: Organization
   name: Easy Weightloss Tips
   links:
     - https://www.facebook.com/ez.w8loss.tips/
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-348375-34"
+    anonymize_ip: false # default
+
+footer:
+  links:
+    - label: "Main website"
+      icon: "fas fa-globe"
+      url: "https://www.easy-weightloss-tips.com"
+    - label: "Facebook"
+      icon: "fab fa-facebook-square"
+      url: "https://www.facebook.com/ez.w8loss.tips/"
     
 collections:
   authors:
     output: true
 
-affiliate_links_clickbank_3_week_diet: https://c448ed0bv0bq5m8v6dqgg4gs3m.hop.clickbank.net/
+monetization:
+  affiliate_links_clickbank_3_week_diet: https://c448ed0bv0bq5m8v6dqgg4gs3m.hop.clickbank.net/
+  adsense_id: ca-pub-4183517802667197
 
 defaults:
   - scope:
       path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
       type: "posts"
     values:
-      layout: "post"
-      excerpt_separator: <!--more-->
+      layout: single
+      sidebar:
+        nav: "sidebar1"
+      toc: false
+      toc_label: "Contents"
+      toc_icon: "cog"
+      toc_sticky: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
   - scope:
       path: ""
     values:
-      layout: "default"    
+      layout: single
+      classes: wide
+      image: /assets/images/og-image.jpg
+      header:
+        overlay_image: /assets/images/logo_1284x572.jpg
+        image_description: "Healthy weight loss tips"
+        overlay_filter: 0.5

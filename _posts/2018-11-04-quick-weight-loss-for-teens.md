@@ -4,7 +4,9 @@ description: Quick weight loss for teens is achievable for everyone! It can be v
 keywords: quick weight loss for teens
 permalink: /quick-weight-loss-for-teens.html
 image: /assets/images/quick-weight-loss-for-teens.jpg
-index-snippet: Quick weight loss for teens is achievable for everyone! It can be very motivating but you need to make the right choices when it comes to diet and exercise. Find out more here.
+header:
+   teaser: /assets/images/quick-weight-loss-for-teens.jpg
+excerpt: Quick weight loss for teens is achievable for everyone! It can be very motivating but you need to make the right choices when it comes to diet and exercise. Find out more here.
 
 images:
   - url: /assets/images/quick-weight-loss-for-teens.jpg
@@ -12,6 +14,8 @@ images:
     title: Quick Weight Loss for Teens needs to be safe and healthy
     height: 207
     width: 150
+
+categories: [Weight Loss Tips]
 ---
 
 ## How to lose teenage weight easily and safely!

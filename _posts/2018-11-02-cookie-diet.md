@@ -2,9 +2,11 @@
 title: The Cookie Diet - Popular High Protein Low Carb Diet!
 description: The Cookie Diet is an easy to follow and very effective program based on high protein and low carb cookies! That's right, you actually eat cookies! Here's all you need to know about the cookie diet.
 keywords: cookie diet
-image: /assets/images/cookie-diet-cookies.jpg 
+image: /assets/images/cookie-diet-cookies.jpg
+header:
+   teaser: /assets/images/cookie-diet-cookies.jpg
 permalink: /cookie-diet.html
-index-snippet: The Cookie Diet is an easy to follow and very effective program based on high protein and low carb cookies! That's right, you actually eat cookies! Here's all you need to know about the cookie diet.
+excerpt: The Cookie Diet is an easy to follow and very effective program based on high protein and low carb cookies! That's right, you actually eat cookies! Here's all you need to know about the cookie diet.
 
 images:
   - url: /assets/images/cookie-diet-cookies.jpg
@@ -12,6 +14,8 @@ images:
     title: The original cookie diet
     height: 104
     width: 150
+
+categories: [Weight Loss Diets]
 ---
 How it took us so long to discover the Cookie Diet I'll never know, but better late than never! What could be better than a diet that actually promotes eating cookies? In fact, it's the only thing the diet allows us to eat! You may have already heard the diet mentioned in the past, but paid little attention. I mean, for heaven's sake...cookies? I sat up and paid attention recently when we saw a woman on a well-known chat show that claimed she'd dropped 100 pounds in just under 6 months of trying! This figure literally blew my mind. It wasn't really that she'd lost 100 pounds; after all, that's what dieting is about. BUT in 6 months is an incredible weight loss achievement.
 

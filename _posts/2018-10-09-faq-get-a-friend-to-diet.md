@@ -4,7 +4,7 @@ description: FAQ-Get a friend to diet without being hurtful by including more ex
 keywords: faq-get a friend to diet,weight loss,exercise
 image: 
 permalink: /faq-get-a-friend-to-diet.html
-index-snippet: FAQ - How do I get my boyfriend (or friend) to diet?
+excerpt: FAQ - How do I get my boyfriend (or friend) to diet?
 
 images:
   - url: 

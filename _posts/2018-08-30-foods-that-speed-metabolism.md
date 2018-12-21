@@ -3,8 +3,10 @@ title: Foods that Speed Metabolism Include Lean Protein!
 description: Choose healthy foods that speed metabolism such as lean protein, whole grains, and vegetables; and don't forget to stay hydrated for the optimal burn.
 keywords: foods that speed metabolism,lean protein,stay hydrated
 image: /assets/images/improve-metabolism-3.jpg
+header:
+   teaser: /assets/images/improve-metabolism-3.jpg
 permalink: /foods-that-speed-metabolism.html
-index-snippet: Are you searching for foods that speed metabolism? Metabolism is the word we use that refers to how efficiently we burn energy…or more importantly, calories!  
+excerpt: Are you searching for foods that speed metabolism? Metabolism is the word we use that refers to how efficiently we burn energy…or more importantly, calories!  
 
 images:
   - url: /assets/images/improve-metabolism-3.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Include Lean Protein With Foods That Speed Metabolism
 Are you searching for foods that speed metabolism? Metabolism is the word we use that refers to how efficiently we burn energy…or more importantly, calories!  
 
 Some people are blessed with a very efficient metabolism, but others are constantly looking for strategies to make theirs work more effectively! Some factors that influence your metabolism simply cannot be changed. Things like genetics, age, and gender are factors beyond your control.  

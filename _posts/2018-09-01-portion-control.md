@@ -3,8 +3,10 @@ title: Portion Control Is The Diet of Healthy Eating
 description: Practice portion control whether following a diet or not.  It is the single most important element to healthy eating and overall wellness.
 keywords: portion control,healthy eating,diet
 image: /assets/images/portion-control3.jpg
+header:
+   teaser: /assets/images/portion-control3.jpg
 permalink: /portion-control.html
-index-snippet: Portion control is the single most important factor in healthy eating!
+excerpt: Portion control is the single most important factor in healthy eating!
 
 images:
   - url: /assets/images/portion-control3.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Portion Control Makes Healthy Eating & Diet A Snap!
 Portion control is the single most important factor in healthy eating! For every doctor that supports one medical theory, you'll find a doctor that thinks it's "rubbish." For every weight-loss expert who supports one diet plan, you find another who calls it "ridiculous." With so many diet plans and weight loss options available, how are you supposed to choose? Don't worry, there's good news!   
 
 __The one thing that diet and fitness experts agree on is the importance of portion control!__ While you may choose short-term "drastic" diets to get ready for a special event or to jump-start your weight loss for motivational purposes; without the knowledge, understanding, and practice, you're most likely doomed to find that weight again. 

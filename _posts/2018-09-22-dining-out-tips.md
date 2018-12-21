@@ -3,8 +3,10 @@ title: Dining Out Tips - Eat Slowly and Enjoy a Guilt-free Meal
 description: Following a few easy dining out tips when dieting can help you enjoy your restaurant experience.  Just eat slowly and savor your guilt-free meal!
 keywords: dining out tips,guilt-free meal,eat slowly
 image: /assets/images/lg-dining-out3.jpg
+header:
+   teaser: /assets/images/lg-dining-out3.jpg
 permalink: /dining-out-tips.html
-index-snippet: There’s no reason to give up restaurants! Let’s face it; their sales will probably continue to soar! Just follow these quick and easy dining out tips to help you make wise choices and you will be successful on your weight loss journey.
+excerpt: There’s no reason to give up restaurants! Let’s face it; their sales will probably continue to soar! Just follow these quick and easy dining out tips to help you make wise choices and you will be successful on your weight loss journey.
 
 
 images:
@@ -13,6 +15,8 @@ images:
     title: Welcome to dining out tips!
     height: 191
     width: 150
+
+categories: [Free Diet Recipes]
 ---
 
 ![Welcome to dining out tips!](/assets/images/lg-dining-out3.jpg){:style="width:157px;height:200px;float:right;margin:0 0 8px 8px;"}

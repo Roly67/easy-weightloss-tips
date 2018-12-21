@@ -4,7 +4,7 @@ description: FAQ-Lose weight with a busy schedule is a challenge but in some way
 keywords: faq-lose weight with busy schedule,plan ahead,healthy snacks
 image: 
 permalink: /faq-lose-weight-with-busy-schedule.html
-index-snippet: Sometimes being crazy busy is the best thing for a new diet. You just need to plan ahead of time so that you always have healthy snacks and packed meals for when it's time to eat.
+excerpt: Sometimes being crazy busy is the best thing for a new diet. You just need to plan ahead of time so that you always have healthy snacks and packed meals for when it's time to eat.
 
 images:
   - url: 
@@ -14,7 +14,6 @@ images:
     width: 150
 ---
 
-## FAQ: How do I lose weight with a busy schedule?
 ### Voted "Best Answer" by Yahoo! Answers
 
 Sometimes being crazy busy is the best thing for a new diet. You just need to plan ahead of time so that you always have healthy snacks and packed meals for when it's time to eat. Being busy will keep you from picking at food all the time.

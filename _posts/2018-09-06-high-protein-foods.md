@@ -3,8 +3,10 @@ title: High Protein Foods Jump-Start Diets and Promote Weight Loss
 description: Jump-start diets with high protein foods when rapid weight loss is the goal.  These low-carbohydrate choices curb hunger and make losing a snap!
 keywords: high protein foods,weight loss,jump-start diets
 image: /assets/images/high-protein-foods-1.jpg
+header:
+   teaser: /assets/images/high-protein-foods-1.jpg
 permalink: /high-protein-foods.html
-index-snippet: The popularity of high protein foods has been historically inconsistent; however, today many medical professionals have jumped on the "protein bandwagon!"
+excerpt: The popularity of high protein foods has been historically inconsistent; however, today many medical professionals have jumped on the "protein bandwagon!"
 
 images:
   - url: /assets/images/high-protein-foods-1.jpg
@@ -13,8 +15,6 @@ images:
     height: 226
     width: 150
 ---
-
-## High Protein Foods Jump-Start Diets!
 
 ![Welcome to high protein foods](/assets/images/high-protein-foods-1.jpg){:style="width:139px;height:209px;" class="ImageBlock ImageBlockRight"}
 

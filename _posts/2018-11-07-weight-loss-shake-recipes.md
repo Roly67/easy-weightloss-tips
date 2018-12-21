@@ -3,8 +3,10 @@ title: Weight Loss Shake Recipes To Lose Weight And Look Fantastic!
 description: Weight loss shake recipes and diet smoothies can be an extremely effective and healthy way to lose weight fast! They're also great for a quick snack so try these recipes today!
 keywords: weight loss shake recipes
 permalink: /weight-loss-shake-recipes.html
+header:
+   teaser: /assets/images/weight-loss-shake-recipes.jpg
 image: /assets/images/weight-loss-shake-recipes.jpg
-index-snippet: Weight loss shake recipes and diet smoothies can be an extremely effective and healthy way to lose weight fast! They're also great for a quick snack so try these recipes today!
+excerpt: Weight loss shake recipes and diet smoothies can be an extremely effective and healthy way to lose weight fast! They're also great for a quick snack so try these recipes today!
 
 images:
   - url: /assets/images/weight-loss-shake-recipes.jpg
@@ -12,9 +14,10 @@ images:
     title: weight-loss-shake-recipes
     height: 120
     width: 150
+
+categories: [Free Diet Recipes]
 ---
 
-## Enjoy A Guilt-Free Diet Smoothie!
 ![weight loss shake recipes to help get in shape](/assets/images/weight-loss-shake-recipes.jpg){:style="width:361;height:289px;float:right;margin:0 0 10 10;"}
 Weight loss shake recipes are as unlimited as your imagination, and an excellent source for vitamins, minerals, and healthy weight loss! They're a fantastic way to get fill up on low calorie, high nutrition sustenance without the worry about extra sugar and fats! Summer is an especially good time to drink these delicious, refreshing drinks because of the abundance of available fresh fruit, but I enjoy them all year, and you can do the same thanks to frozen fruit from your local store
 

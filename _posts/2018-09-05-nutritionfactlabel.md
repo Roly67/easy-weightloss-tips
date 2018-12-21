@@ -3,8 +3,10 @@ title: The Nutrition Fact Label Helps Make Healthy Food Choices
 description: Use the Nutrition Fact Label, found on most packaging, to help you determine the proper serving size and nutrients in your healthy food choices.
 keywords: Nutrition fact label,healthy food,serving size
 image: /assets/images/eatsmartscale-1.jpg
+header:
+   teaser: /assets/images/eatsmartscale-1.jpg
 permalink: /nutritionfactlabel.html
-index-snippet: Educate yourself about the nutrition fact label and use it regularly when shopping. It provides valuable information that will help you make wise food choices. 
+excerpt: Educate yourself about the nutrition fact label and use it regularly when shopping. It provides valuable information that will help you make wise food choices. 
 
 images:
   - url: /assets/images/eatsmartscale-1.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Nutrition Fact Label: Make Healthy Food Choices
 Educate yourself about the nutrition fact label and use it regularly when shopping. It provides valuable information that will help you make wise food choices. Remember, knowing is always better than not knowing! You can bury your head in the sand but it will show up on your bathroom scale!
 
 ## Serving Size and Servings Per Container

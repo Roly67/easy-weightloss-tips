@@ -3,8 +3,10 @@ title: Weight Loss Plateau - Celebrate the Non-Scale Victories
 description: To bust your way through a weight loss plateau, dump the fickle bathroom scale and rejoice in your many non-scale victories! Good news is all around you.
 keywords: weight loss plateau,non-scale victories,bathroom scale
 image: /assets/images/smaller-weight-loss-plateau-1.jpg
+header:
+   teaser: /assets/images/smaller-weight-loss-plateau-1.jpg
 permalink: /weight-loss-plateau.html
-index-snippet: Do you know what a weight loss plateau is?
+excerpt: Do you know what a weight loss plateau is?
 
 images:
   - url: /assets/images/smaller-weight-loss-plateau-1.jpg
@@ -13,8 +15,6 @@ images:
     height: 222
     width: 150
 ---
-
-## Weight Loss Plateau: Celebrate the Non-Scale Victories!
 
 <div class="ImageBlock ImageBlockRight" markdown="1">
 ![Welcome to Weight Loss Plateau](/assets/images/smaller-weight-loss-plateau-1.jpg){:style="width:200px;height:269px;"}

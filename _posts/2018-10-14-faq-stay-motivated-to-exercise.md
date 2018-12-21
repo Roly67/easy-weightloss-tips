@@ -3,14 +3,12 @@ title: FAQ-Stay Motivated to Exercise With A Workout Buddy
 description: FAQ-Stay motivated to exercise by journaling with a log.  Find a workout buddy that has the same interests and is willing to try a variety of activities.
 keywords: faq-stay motivated to exercise,workout,log
 image: /assets/images/exercise-music-2.jpg
+header:
+   teaser: /assets/images/exercise-music-2.jpg
 permalink: /faq-stay-motivated-to-exercise.html
-index-snippet: FAQ - How can I stay motivated to exercise? Voted "Best Answer" by Yahoo! Answers
+excerpt: FAQ - How can I stay motivated to exercise? Voted "Best Answer" by Yahoo! Answers
 
 ---
-
-## Log Your Workout
-
-### FAQ: How can I stay motivated to exercise?
 
 #### Voted "Best Answer" by Yahoo! Answers
 

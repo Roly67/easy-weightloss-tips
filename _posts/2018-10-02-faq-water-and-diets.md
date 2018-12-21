@@ -4,7 +4,7 @@ description: FAQ-Water and diets work well together because hydrated cells funct
 keywords: faq-water and diets,feeling full,hydrated
 image: 
 permalink: /faq-water-and-diets.html
-index-snippet: FAQ - Why is it good to drink water?
+excerpt: FAQ - Why is it good to drink water?
 
 images:
   - url: 
@@ -14,7 +14,6 @@ images:
     width: 150
 ---
 
-## FAQ: Why is it good to drink water?
 ### Voted "Best Answer" by Yahoo! Answers
 
 Well, the easy answer is that water helps you stay full and satisfied so that you will eat less. In addition, hydrated cells have been shown in studies to function much better than cells that are not hydrated...

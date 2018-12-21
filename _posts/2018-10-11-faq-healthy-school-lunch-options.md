@@ -1,10 +1,10 @@
 ---
-title: FAQ-Healthy School Lunch Options For Weight Loss
+title: FAQ - What are some healthy lunch options to take to school?
 description: FAQ-Healthy school lunch options require that you plan ahead to include a variety of satisfying, nutritious foods that will encourage weight loss.
 keywords: faq-healthy school lunch options,weight loss,plan ahead
 image: 
 permalink: /faq-healthy-snacks-for-weight-loss.html
-index-snippet: While it may be convenient, or even good for networking, to go out to lunch everyday in the workplace, or to buy your lunch at school, it gets expensive and can make it more difficult to reach your weight loss goals. Read on to find out the secret to nutritious lunches.
+excerpt: While it may be convenient, or even good for networking, to go out to lunch everyday in the workplace, or to buy your lunch at school, it gets expensive and can make it more difficult to reach your weight loss goals. Read on to find out the secret to nutritious lunches.
 
 images:
   - url: 
@@ -14,7 +14,6 @@ images:
     width: 150
 ---
 
-## FAQ: What are some healthy lunch options to take to school?
 ### Voted "Best Answer" by Yahoo! Answers
 
 While it may be convenient, or even good for networking, to go out to lunch everyday in the workplace, or to buy your lunch at school, it gets expensive and can make it more difficult to reach your weight loss goals. The secret to more nutritious lunches is to plan ahead.

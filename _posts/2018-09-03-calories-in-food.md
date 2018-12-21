@@ -3,8 +3,10 @@ title: Recognize Calories in Food To Amp Up Your Metabolism
 description: Learn to understand calories in food and why they are important. Know which foods will boost your metabolism and which foods provide empty calories.
 keywords: calories in food,metabolism,empty calories
 image: /assets/images/calories-in-food-1.jpg
+header:
+   teaser: /assets/images/calories-in-food-1.jpg
 permalink: /calories-in-food.html
-index-snippet: Why is it important to know calories in food?
+excerpt: Why is it important to know calories in food?
 
 images:
   - url: /assets/images/calories-in-food-1.jpg
@@ -13,8 +15,6 @@ images:
     height: 177
     width: 150
 ---
-
-## Calories in Food: Empty Calories Lower Metabolism
 
 ![Welcome to calories in food](/assets/images/calories-in-food-1.jpg){:style="width:163px;height:192px;" class="ImageBlock ImageBlockRight"}
 ### Why is it important to know calories in food?

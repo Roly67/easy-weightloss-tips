@@ -3,8 +3,10 @@ title: Burn Fat Walking By Making it Fitness Walking
 description: Burn fat walking without stressing your joints.  Fitness walking is not only healthy, but you will be amazed by the calories burned walking!
 keywords: burn fat walking,fitness walking,calories burned walking
 image: /assets/images/js_jst_exercise-log-sheet-1-mod.jpg
+header:
+   teaser: /assets/images/js_jst_exercise-log-sheet-1-mod.jpg
 permalink: /burn-fat-walking.html
-index-snippet: Strenuous exercise equals fat-burn, but did you know that you can burn fat walking?
+excerpt: Strenuous exercise equals fat-burn, but did you know that you can burn fat walking?
 
 images:
   - url: /assets/images/js_jst_exercise-log-sheet-1-mod.jpg
@@ -15,7 +17,6 @@ images:
 
 ---
 
-## It's Time to.. Burn Fat Walking and Celebrate!
 Strenuous exercise equals fat-burn, but did you know that you can burn fat walking? How many calories you burn depends on various factors such as gender, weight, age, intensity, muscle mass, etc. But generally speaking, fitness walking is a safe, efficient exercise that can help you achieve your weight loss or weight maintenance goals.
 
 When we exercise, not all the calories that we burn are from fat. To ensure that you burn fat walking, make sure that you are walking at a pace that leaves you huffing and puffing.

@@ -3,8 +3,10 @@ title: Look Great with Summer Weight Loss Tips
 description: Here's how to lose weight for the summer and look great in the sun! Summer weight loss is easily achievable thanks to great weather, more fresh fruit, better opportunities to get outdoors.
 keywords: summer weight loss
 image: /assets/images/summer-weight-loss-efforts.jpg
+header:
+   teaser: /assets/images/lose-weight-in-a-week.jpg
 permalink: /summer-weight-loss.html
-index-snippet: It's time to lose weight for the summer season! Whether warm weather is months away or right around the corner, you still have time to make healthy choices that will have you feeling confident and looking great.
+excerpt: It's time to lose weight for the summer season! Whether warm weather is months away or right around the corner, you still have time to make healthy choices that will have you feeling confident and looking great.
 
 images:
   - url: /assets/images/summer-weight-loss-efforts.jpg
@@ -12,10 +14,9 @@ images:
     title: Summer weight loss is achievable for everybody
     height: 133
     width: 154
----
 
-## It's Time For Summer Weight Loss Success!
-### Here's how to Look Great for the Sun..
+categories: [Weight Loss Diets]
+---
 
 ![Summer weight loss is achievable for everybody](/assets/images/summer-weight-loss-efforts.jpg){:style="width:305px;height:271px;float:right;margin:0 0 8px 8px;"}
 

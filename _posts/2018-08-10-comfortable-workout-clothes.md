@@ -4,7 +4,7 @@ description: Discover the most comfortable workout clothes ever! "Nothing to wea
 keywords: comfortable workout clothes,exercise apparel,plus-size
 image: 
 permalink: /comfortable-workout-clothes.html
-index-snippet: Comfortable workout clothes just may be the most important component to sustained activity.
+excerpt: Comfortable workout clothes just may be the most important component to sustained activity.
 
 
 images:
@@ -15,7 +15,6 @@ images:
     width: 150
 ---
 
-## Comfortable Workout Clothes Available In Plus-size Exercise Apparel
 Comfortable workout clothes just may be the most important component to sustained activity! For people at an ideal weight, purchasing exercise apparel is easy. Everything fits and everything looks great! For the rest of us, it's not quite that simple.
 
 As a person whose weight yo-yos constantly, I am always looking for workout clothing that I can put on and ignore, without it rubbing my skin, or me having to tug at it. Finding polyester/cotton/spandex walking shorts that are the right length for my short legs, or a t-shirt that is wide enough to not hug my hips, but doesn't fall to my knees can be quite a challenge. I am on a quest to find those items that I believe are the most comfortable and offer them to you to check out yourselves.

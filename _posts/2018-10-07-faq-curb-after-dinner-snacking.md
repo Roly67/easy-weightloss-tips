@@ -4,7 +4,7 @@ description: FAQ-curb after-dinner snacking by taking a walk, keeping your hands
 keywords: faq-curb after-dinner snacking,sugarless gum,walk
 image: 
 permalink: /faq-curb-after-dinner-snacking.html
-index-snippet: FAQ - I’m trying to lose weight but I’m hungry all the time.  Why?
+excerpt: FAQ - I’m trying to lose weight but I’m hungry all the time.  Why?
 
 images:
   - url: 

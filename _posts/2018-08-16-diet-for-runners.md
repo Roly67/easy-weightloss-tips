@@ -4,7 +4,9 @@ description: Discover a healthy diet for runners to follow that promotes stamina
 keywords: diet for runners,good nutrition,fuel for running
 permalink: /diet-for-runners.html
 image: /assets/images/cardio-exercise-for-weight-loss-1.jpg
-index-snippet: The best diet for runners is going to be very similar to the best diet for non-athletes, with just a few minor tweaks.
+header:
+   teaser: /assets/images/cardio-exercise-for-weight-loss-1.jpg
+excerpt: The best diet for runners is going to be very similar to the best diet for non-athletes, with just a few minor tweaks.
 
 images:
   - url: /assets/images/cardio-exercise-for-weight-loss-1.jpg
@@ -14,7 +16,6 @@ images:
     width: 133
 ---
 
-## Diet for Runners: Get Fuel for Running
 __Calories In vs. Calories Out__
 
 <div class="ImageBlock ImageBlockRight" markdown="1">

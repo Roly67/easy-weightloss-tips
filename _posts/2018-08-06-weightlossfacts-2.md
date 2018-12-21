@@ -3,8 +3,10 @@ title: Weight Loss Facts - Discover the Importance of  Waist Size
 description: Discover more weight loss facts, such as waist size,  waist-to-hip ratio, and the government's My Plate initiative, to help your weight loss journey.
 keywords: weight loss facts,waist size,my plate
 image: /assets/images/smaller-women-waist-tape.jpg
+header:
+   teaser: /assets/images/smaller-women-waist-tape.jpg
 permalink: /weightlossfacts-2.html
-index-snippet: Know your weight loss facts--not all fat is created equal!
+excerpt: Know your weight loss facts--not all fat is created equal!
 
 
 images:
@@ -14,8 +16,6 @@ images:
     height: 188
     width: 150
 ---
-
-## Weight Loss Facts: Waist Size & My Plate
 
 <div class="ImageBlock ImageBlockRight" markdown="1">
 ![Welcome to weight loss facts-2](/assets/images/smaller-women-waist-tape.jpg){:style="width:200px;height:250px;"}

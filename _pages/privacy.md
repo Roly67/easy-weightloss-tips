@@ -3,6 +3,7 @@ title: Privacy Policy
 description: We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Easy WeightLoss Tips
 keywords: privacy policy,privacy,easy weight loss tips privacy policy
 permalink: /privacy-policy.html
+layout: splash
 ---
 # Privacy Policy
 

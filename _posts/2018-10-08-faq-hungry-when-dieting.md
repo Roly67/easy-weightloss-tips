@@ -4,7 +4,7 @@ description: FAQ-Hungry when dieting is a common problem that can be fixed with 
 keywords: fq-hungry when dieting,lean protein,healthy snacks
 image: 
 permalink: /faq-hungry-when-dieting.html
-index-snippet: FAQ - I’m trying to lose weight but I’m hungry all the time.  Why?
+excerpt: FAQ - I’m trying to lose weight but I’m hungry all the time.  Why?
 
 images:
   - url: 

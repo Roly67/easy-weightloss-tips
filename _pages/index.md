@@ -2,10 +2,14 @@
 title: Easy Weight Loss Tips to Lose Weight Quickly and Effectively
 description: Easy weight loss tips are all you need to help you lose weight and look great quickly.. It's all about sensible weight loss tips that actually work!
 keywords: easy weight loss tips
+layout: single
 permalink: /
+classes: wide
+related: false
+sidebar:
+  nav: "sidebar1"
 ---
 
-# Lose Weight and Look Great with Easy Weight Loss Tips
 So you're looking for quick and easy weight loss tips to jump-start your diet? The sort of tips that actually work? Well if dropping a few more pounds is your goal and you want results quickly, you're not alone! On average, 40% of women and 25% of men in the United States are trying to find a way to drop unwanted weight at any given time!
 ![Easy weight loss tips that actually work!](/assets/images/easy-weightloss-tips.jpg){:style="width:348px;height:289px;" class="ImageBlock ImageBlockRight"}
 The purpose of this site is to give you the knowledge, understanding and support that you'll need to achieve all your wellness and weight loss goals. It's really that simple! You'll not only learn about the science behind diets, how and why they work, but you'll also find endless tips and techniques to lose weight!
@@ -25,5 +29,3 @@ You'll also get a complete range of proven and effective diet plans to blast fat
 
 ![Diet plans are great for easy weight loss](/assets/images/diet-plan.jpg){:style="width:235px;height:235px;" class="ImageBlock ImageBlockLeft"}
 Now you know what we're about, let's get started on your personal weight loss journey. Don't forget, we're here to offer support and advice as your 'one stop' dieting resource site. To get started, take a look at our navigation bar on the left of the site - it'll help guide you through and find all the information you need for losing weight quickly, safely and effectively. The site information, articles and diet plans are updated regularly, so we're always ready to point you in the right direction!
-
-Check out this popular product on how to drop up to 20 pounds off your belly in only 3 weeks this 1 weird trick. It's called The 3 Week Diet and you can find out more about it by clicking the banner below.

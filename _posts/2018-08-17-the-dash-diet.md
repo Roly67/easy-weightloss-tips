@@ -4,7 +4,9 @@ description: The DASH diet is a healthy eating plan designed to improve hyperten
 keywords: the dash diet,hypertension,healthy eating
 permalink: /the-dash-diet.html
 image: /assets/images/74322209.jpg
-index-snippet: The DASH Diet Plan was ranked #1 by the US News & World Reports in 2011! That honor alone makes this diet worth paying attention to!
+header:
+   teaser: /assets/images/74322209.jpg
+excerpt: The DASH Diet Plan was ranked #1 by the US News & World Reports in 2011! That honor alone makes this diet worth paying attention to!
 
 images:
   - url: /assets/images/74322209.jpg
@@ -13,8 +15,6 @@ images:
     height: 170
     width: 113
 ---
-
-## The DASH Diet Plan: Healthy Eating Curbs Hypertension
 
 <div class="ImageBlock ImageBlockRight" markdown="1">
 ![Welcome to the DASH diet](/assets/images/74322209.jpg){:style="width:113px;height:170px;"}

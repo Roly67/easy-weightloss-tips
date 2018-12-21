@@ -4,7 +4,9 @@ description: Discover fiber benefits as well as the sources of this rich nutrien
 keywords: fiber benefits,weight loss,wellness
 permalink: /fiberbenefits.html
 image: /assets/images/jsw_j0436434.jpg
-index-snippet: Today, you can't pick up any health-related publication without reading how important fiber is to your overall well being.
+header:
+   teaser: /assets/images/jsw_j0436434.jpg
+excerpt: Today, you can't pick up any health-related publication without reading how important fiber is to your overall well being.
 
 images:
   - url: /assets/images/jsw_j0436434.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Wellness & Weight Loss Through Fiber Benefits
 __The Super-Blooper Nutrient!__
 
 <div class="ImageBlock ImageBlockRight" markdown="1">

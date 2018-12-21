@@ -3,8 +3,10 @@ title: Cleansing Detox Diets and Fasting Diets Drop Weight Quickly
 description: Cleansing detox diets, such as The Lemondade Diet, aren't new but have made a major comeback. See if you want to jump on this fasting diet craze!
 keywords: cleansing detox diets,fasting diets,the lemonade diet
 image: /assets/images/cleansing-detox-diets5.jpg
+header:
+   teaser: /assets/images/cleansing-detox-diets5.jpg
 permalink: /cleansing-detox-diets.html
-index-snippet: You may think this is a relatively new approach to dieting, but it’s basically been around for years. Your mothers and grandmothers were familiar with similar diets. Cleansing detox diets were previously known as fasting diets.
+excerpt: You may think this is a relatively new approach to dieting, but it’s basically been around for years. Your mothers and grandmothers were familiar with similar diets. Cleansing detox diets were previously known as fasting diets.
 
 images:
   - url: /assets/images/cleansing-detox-diets5.jpg
@@ -12,9 +14,9 @@ images:
     title: cleanising detox diets
     height: 154
     width: 150
----
 
-## Cleansing Detox Diets Are Effective Fasting Diet Plans
+categories: [Weight Loss Diets]
+---
 
 ![cleanising detox diets](/assets/images/cleansing-detox-diets5.jpg){:style="width:120px;height:80px;float:right;margin:0 0 8px 8px;"}
 Cleansing detox diets are rapidly becoming the hottest craze around today for body detoxification purposes!

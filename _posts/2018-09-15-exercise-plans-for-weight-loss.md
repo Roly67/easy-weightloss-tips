@@ -3,9 +3,10 @@ title: Exercise Plans for Weight Loss - Become Fit From Activity
 description: Explore exercise plans for weight loss and transition from a sedentary lifestyle to one filled with activity.  Become fit and trim as a result.
 keywords: exercise plans for weight loss,become fit,activity
 image: /assets/images/printable-weight-loss-journal-1.jpg
+header:
+   teaser: /assets/images/printable-weight-loss-journal-1.jpg
 permalink: /exercise-plans-for-weight-loss.html
-index-snippet: Are you ready to create exercise plans for weight loss but you’re just not sure how to get started?
-
+excerpt: Are you ready to create exercise plans for weight loss but you’re just not sure how to get started?
 
 images:
   - url: /assets/images/printable-weight-loss-journal-1.jpg
@@ -13,9 +14,10 @@ images:
     title: Welcome to Exercise Plans for Weight Loss
     height: 98
     width: 150
+
+categories: [Exercise]
 ---
 
-## Become Fit With Exercise Plans for Weight Loss
 Are you ready to create exercise plans for weight loss but you’re just not sure how to get started? The really great news is that making the commitment to begin is the single most important factor! 
 
 If you normally lead a sedentary life, then getting out of the house that very first day will be your biggest challenge. It's easy to justify why tomorrow would be a better day to begin. There's always going to be something you'd rather do or some inclement weather to blame it on.

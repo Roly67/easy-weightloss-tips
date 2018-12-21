@@ -4,7 +4,9 @@ description: Apple cider vinegar and raw honey weight loss remedy combines the s
 keywords: Apple Cider Vinegar and Raw Honey
 permalink: /Apple-cider-vinegar-and-Raw-honey.html
 image: /assets/images/appleciderhoney.jpg
-index-snippet: Apple cider vinegar and raw honey weight loss remedy combines the strength of two natural health foods.
+header:
+   teaser: /assets/images/appleciderhoney.jpg
+excerpt: Apple cider vinegar and raw honey weight loss remedy combines the strength of two natural health foods.
 
 images:
   - url: /assets/images/appleciderhoney.jpg
@@ -12,9 +14,10 @@ images:
     title: Apple Cider Vinegar and Raw Honey For Natural Weight Loss
     height: 100 
     width: 150
+
+categories: [Healthy Eating]
 ---
 
-## Apple Cider Vinegar And Raw Honey For Natural Weight Loss
 An [apple cider vinegar]({{ site.baseurl }}{% post_url 2018-11-10-apple-cider-vinegar-weight-loss %}) and [raw honey]({{ site.baseurl }}{% post_url 2018-11-13-raw-honey %}) weight loss remedy combines the strength of two natural health foods
 
 Looking to lose weight? An [apple cider vinegar]({{ site.baseurl }}{% post_url 2018-11-10-apple-cider-vinegar-weight-loss %}) and [raw honey]({{ site.baseurl }}{% post_url 2018-11-13-raw-honey %}) weight loss remedy can improve your digestion and allow you to keep fat off in a way that is natural and healthy.

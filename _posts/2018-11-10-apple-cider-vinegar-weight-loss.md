@@ -4,7 +4,10 @@ description: Apple cider vinegar is still one of the most widely accepted home r
 keywords: apple cider vinegar weight loss
 permalink: /apple-cider-vinegar-weight-loss.html
 image: /assets/images/applecidervinegar2.jpg
-index-snippet: A honey and cinnamon weight loss remedy taken twice a day can lower blood sugar to combat fat formation and lose weight naturally.
+header:
+   teaser: /assets/images/applecidervinegar2.jpg
+
+excerpt: A honey and cinnamon weight loss remedy taken twice a day can lower blood sugar to combat fat formation and lose weight naturally.
 
 images:
   - url: /assets/images/applecidervinegar2.jpg
@@ -12,9 +15,10 @@ images:
     title: Apple Cider Vinegar and Raw Honey For Natural Weight Loss
     height: 133 
     width: 150
+
+categories: [Healthy Eating]
 ---
 
-## Apple Cider Vinegar Weight Loss
 [Apple Cider Vinegar]({{ site.baseurl }}{% post_url 2018-11-12-apple-cider-vinegar-and-raw-honey %}) has a lot of health benefits that probably most people don’t know. It has long been known that [apple cider vinegar]({{ site.baseurl }}{% post_url 2018-11-12-apple-cider-vinegar-and-raw-honey %}) is a potent home remedy for pollen, food, pet allergies and even sinus infections. People who live in a heavily polluted area could benefit from apple cider vinegar in improving their body’s system to fight against allergens such as dust, pollens and many others.
 
 Detoxification is another benefit that apple cider vinegar brings. It has been studied that the ability of [apple cider vinegar]({{ site.baseurl }}{% post_url 2018-11-12-apple-cider-vinegar-and-raw-honey %}) to convert body toxins into acetate, a compound that is less toxic to the body, is a good justification why [apple cider vinegar]({{ site.baseurl }}{% post_url 2018-11-12-apple-cider-vinegar-and-raw-honey %}) is a good home remedy for detoxification. Aside from what were already mentioned, apple cider vinegar has anti-fungal, antibacterial and antiviral properties as well due to the malic and acetic acid that is present in the vinegar itself.

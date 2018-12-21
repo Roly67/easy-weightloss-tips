@@ -3,8 +3,10 @@ title: Artificial Sweeteners Might Cause Metabolic Syndrome
 description: Research indicates that artificial sweeteners, particularly those found in diet soda, effect appetite control and perhaps cause metabolic syndrome.
 keywords: Artificial Sweeteners,diet soda,metabolic syndrome
 image: /assets/images/dreamstime_xs_15891512.jpg
+header:
+   teaser: /assets/images/dreamstime_xs_15891512.jpg
 permalink: /artificialsweeteners.html
-index-snippet: A 2007 study found a 50% increased risk of metabolic syndrome over four years in study participants who drank one or more sodas per day with those who drank less than one soda per day. Are you ready for this? 
+excerpt: A 2007 study found a 50% increased risk of metabolic syndrome over four years in study participants who drank one or more sodas per day with those who drank less than one soda per day. Are you ready for this? 
 
 images:
   - url: /assets/images/dreamstime_xs_15891512.jpg
@@ -14,7 +16,6 @@ images:
     width: 150
 ---
 
-## Try Limiting Diet Soda and Other Artificial Sweeteners
 <div class="ImageBlock ImageBlockCenter" markdown="1">
 ![Welcome to Try Limiting Diet Soda and Other Artificial Sweeteners](/assets/images/dreamstime_xs_15891512.jpg){:style="width:240px;height:160px;"}
 </div>

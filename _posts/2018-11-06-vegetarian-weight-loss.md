@@ -4,7 +4,9 @@ description: Vegetarian weight loss provides a whole range of long lasting healt
 keywords: vegetarian weight loss
 permalink: /vegetarian-weight-loss.html
 image: /assets/images/vegetarian-weightloss.jpg
-index-snippet: Vegetarian weight loss provides a whole range of long lasting health benefits! The key is the consumption of nutrient-dense foods for optimal wellness. Find out how today..
+header:
+   teaser: /assets/images/vegetarian-weightloss.jpg
+excerpt: Vegetarian weight loss provides a whole range of long lasting health benefits! The key is the consumption of nutrient-dense foods for optimal wellness. Find out how today..
 
 images:
   - url: /assets/images/vegetarian-weightloss.jpg
@@ -12,9 +14,10 @@ images:
     title: Vegetarian weight loss for improved health
     height: 100
     width: 150
+
+categories: [Weight Loss Tips]
 ---
 
-## The Benefits Of Nutrient-Dense Foods
 ![Vegetarian weight loss for improved health](/assets/images/vegetarian-weightloss.jpg){:style="width:425px;height:282px;float:right;margin:0 0 10px 12px;"}
 
 When it comes to vegetarian weight loss, many of us probably assume that simply being a vegetarian means that you'll never be overweight and so weight loss isn't something that can present a problem. Well, unfortunately that's not true. In fact, vegetarians can be just as overweight as anybody else if their diet isn't balanced and they don't lead a healthy lifestyle. However, if you're a vegetarian who wants to lose weight, we're here to help!

@@ -4,7 +4,9 @@ description: Childhood obesity is a very serious problem, so find out how to fig
 keywords: childhood obesity
 permalink: /childhood-obesity.html
 image: /assets/images/childhood-obesity.jpg
-index-snippet: Childhood obesity is a very serious problem, so find out how to fight it and help your children lose weight and stay healthy! Small changes can give huge benefits.
+header:
+   teaser: /assets/images/childhood-obesity.jpg
+excerpt: Childhood obesity is a very serious problem, so find out how to fight it and help your children lose weight and stay healthy! Small changes can give huge benefits.
 
 images:
   - url: /assets/images/childhood-obesity.jpg
@@ -12,9 +14,10 @@ images:
     title: childhood obesity is now a huge problem
     height: 165
     width: 150
+
+categories: [Weight Loss Tips]    
 ---
 
-## How To Combat Childhood Obesity Through Healthy Lifestyle Choices
 It's now official; childhood obesity is now out of control! Did you know, 1 out of every 5 American children are now considered overweight (in some regions, this rises to 1 in 3 children!) This alarming statistic has doubled in the past 20-30 years. Frightening isn't it? Many people think that obesity is an adult problem, but unfortunately, it affects children of all ages, races, and gender groups too! Let's think about this issue a little more.
 ![childhood obesity is now a huge problem](/assets/images/childhood-obesity.jpg){:style="width:314px;height:344px;float:right;margin:0 0 5px 8px;"}
 
